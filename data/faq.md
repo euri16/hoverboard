@@ -2,11 +2,11 @@
 
 ### Dates and location
 
-GDG DevFest Ukraine will take place on the 12-13th of October in [Planeta Kino (King Cross),]( https://goo.gl/Zwi76g) Lviv.
+GDG DevFest Santo Domingo will take place on the 20th of September in [Centro Indotel,](https://goo.gl/maps/CxfDPewuoztFudpc8) Santo Domingo.
 
 ### Stay Informed
 
-To stay up to date on the latest information on sessions, speakers, and activities, be sure to visit the [DevFest website](https://devfest.gdg.org.ua/), RSVP on [Meetup]( https://www.meetup.com/GDG-Lviv/events/244342635/) and follow us on [Facebook](https://www.facebook.com/devfest.ukraine/) and [Twitter](https://twitter.com/devfest_ukraine). You can also follow and join the social conversation about GDG DevFest Ukraine via official hashtags #dfua and #Devfest18. In addition, we'll be emailing important information to all registered attendees, along with check-in instructions prior to the conference.
+To stay up to date on the latest information on sessions, speakers, and activities, be sure to visit the [DevFest website](https://devfest.gdg.org.ua/), RSVP on [Meetup](https://www.meetup.com/GDG-Santo-Domingo/) and follow us on [Facebook](https://www.facebook.com/GDGSantoDomingo/) and [Twitter](https://twitter.com/gdgsdq). You can also follow and join the social conversation about GDG DevFest Santo Domingo via official hashtags #devfestsdq and #DevFestSantoDomingo19. In addition, we'll be emailing important information to all registered attendees, along with check-in instructions prior to the conference.
 
 ### Content Formats
 
@@ -14,7 +14,7 @@ During two conference days attendees will be able to attend sessions and hands-o
 
 ### Livestream & Recordings
 
-If you’re unable to attend DevFest in-person, you can still be part of the magic. All the lectures from the sessions will be available for free on GDG Lviv [youtube channel](https://www.youtube.com/channel/UC5nknQj-2llSNd-jqXr4d_w) few weeks after the conference. Workshops won’t be recorded. Also, there could be a livestream provided by participants which you can find via #dfua and #Devfest18 hashtags.
+If you’re unable to attend DevFest in-person, you can still be part of the magic. All the lectures from the sessions will be available for free on GDG Santo Domingo [youtube channel](https://www.youtube.com/c/gdgsantodomingoorg) few weeks after the conference. Workshops won’t be recorded. Also, there could be a livestream provided by participants which you can find via #dfua and #Devfest18 hashtags.
 
   
 ## Registration
@@ -68,35 +68,35 @@ Special tickets for real supporters of our conference. As we’re organizing the
 
 ### Registration Terms & Conditions
 
-- Tickets for GDG DevFest Ukraine are for the full two-day conference and no single-day tickets are available. 
+- Tickets for GDG DevFest Santo Domingo are for the full two-day conference and no single-day tickets are available. 
 - You may buy a ticket on behalf of the other person (for example, make a gift). Just mention during purchase the name, company and title of the person who will attend the event. 
-- GDG DevFest Ukraine tickets must be used by the original registrant and are non-transferable. 
-- By registering and accepting any discounts, gifts, or items of value related to GDG DevFest Ukraine, you certify that you are able to do so in compliance with applicable laws and the internal rules of your organization. 
-- At check-in, we’ll check your ticket prior to assigning you your GDG DevFest Ukraine badge. If you don’t have proper identification, you won’t be able to receive a badge and won’t be admitted to the conference. 
-- If you buy an EDU ticket and can't provide academic documentation during check-in at GDG DevFest Ukraine, you won't be admitted or offered a refund, nor will you be able to convert your ticket to general admission. Please be sure to bring a current student ID or other proof that you are qualified to receive this special rate when you check in at the conference. 
+- GDG DevFest Santo Domingo tickets must be used by the original registrant and are non-transferable. 
+- By registering and accepting any discounts, gifts, or items of value related to GDG DevFest Santo Domingo, you certify that you are able to do so in compliance with applicable laws and the internal rules of your organization. 
+- At check-in, we’ll check your ticket prior to assigning you your GDG DevFest Santo Domingo badge. If you don’t have proper identification, you won’t be able to receive a badge and won’t be admitted to the conference. 
+- If you buy an EDU ticket and can't provide academic documentation during check-in at GDG DevFest Santo Domingo, you won't be admitted or offered a refund, nor will you be able to convert your ticket to general admission. Please be sure to bring a current student ID or other proof that you are qualified to receive this special rate when you check in at the conference. 
 - Ticket purchases can be refunded before October 4th, 2018 via your profile at the [ticket service website]( https://2event.com/events/1027108). 
 - After October 4th, 2018, all ticket sales are final. There will be no refunds or exchanges regardless of weather conditions, session availability, or any other circumstance. 
-- Attendees aren’t permitted to bring guests to GDG DevFest Ukraine or to the after hours party. If you have someone traveling with you, they’ll need to register themselves and purchase an attendee ticket. 
-- Photographs and/or video taken at GDG DevFest Ukraine by GDG Lviv, or others on behalf of the conference organizers, may include your image or likeness. You agree that GDG Lviv may use such photographs and/or video for any purpose without any compensation to you. 
+- Attendees aren’t permitted to bring guests to GDG DevFest Santo Domingo or to the after hours party. If you have someone traveling with you, they’ll need to register themselves and purchase an attendee ticket. 
+- Photographs and/or video taken at GDG DevFest Santo Domingo by GDG Santo Domingo, or others on behalf of the conference organizers, may include your image or likeness. You agree that GDG Santo Domingo may use such photographs and/or video for any purpose without any compensation to you. 
 - All information entered into the registration form must be correct and accurate to the best of your knowledge. All information expected to be entered in English. Some of the information entered (such as name, company and title), will be displayed on the attendee badge. 
 - By registering for a ticket you acknowledge that your information will be used in accordance with [Tickets provider Terms of Service](https://2event.com/en/agreement). 
-- All registered attendees agree to allow GDG Lviv to contact them regarding their registration and attendance at the event. By registering for a ticket, you agree to allow GDG Lviv to communicate with you via email with information regarding the event. 
-- You agree to be solely responsible for your own safety, belongings and well-being while participating in GDG DevFest Ukraine. Organizers won't be liable for your participation in GDG DevFest Ukraine. 
+- All registered attendees agree to allow GDG Santo Domingo to contact them regarding their registration and attendance at the event. By registering for a ticket, you agree to allow GDG Santo Domingo to communicate with you via email with information regarding the event. 
+- You agree to be solely responsible for your own safety, belongings and well-being while participating in GDG DevFest Santo Domingo. Organizers won't be liable for your participation in GDG DevFest Santo Domingo. 
 - Applicants and attendees can request the deletion of their registration data after the event ends by emailing [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua). 
   
 
 ### More Registration Details
 
 - Please make sure to register using the name that matches the government-issued photo ID you’ll be presenting when you check in to the festival. 
-- Registration for GDG DevFest Ukraine includes two full days of sessions, product demos, admission to the after hours party, and attendance at the keynotes. We also provide complimentary snacks each day. In addition, attendees receive a conference badge and may be offered additional gifts.  
-- If you aren’t a resident of Ukraine, you should check with your local government to determine the required documents and arrangements needed for your travel to Ukraine. If you require a visa letter regarding your GDG DevFest Ukraine attendance please indicate so when completing the registration form and we’ll email it to you within 7 business days. If you haven’t received your letter or have questions regarding the process, you can contact [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua). GDG Lviv won’t be able to contact an embassy on your behalf. 
+- Registration for GDG DevFest Santo Domingo includes two full days of sessions, product demos, admission to the after hours party, and attendance at the keynotes. We also provide complimentary snacks each day. In addition, attendees receive a conference badge and may be offered additional gifts.  
+- If you aren’t a resident of Santo Domingo, you should check with your local government to determine the required documents and arrangements needed for your travel to Santo Domingo. If you require a visa letter regarding your GDG DevFest Santo Domingo attendance please indicate so when completing the registration form and we’ll email it to you within 7 business days. If you haven’t received your letter or have questions regarding the process, you can contact [gdg.dominicana@gmail.com](mailto:gdg.dominicana@gmail.com). GDG Santo Domingo won’t be able to contact an embassy on your behalf. 
   
 
 ## Attendance Details
 
 ### Language
 
-All presentations at GDG DevFest Ukraine will be in English.
+All presentations at GDG DevFest Santo Domingo will be in English.
 
 ### Pro Tips
 
@@ -109,11 +109,11 @@ If you’re joining us in-person at Planeta Kino, here are some useful tips to n
 
 ### Badges & Badge Pick-up
 
-To expedite the check-in process, we’ll begin badge pick-up on Thursday, October 11, (location will be published). Make sure to bring your ticket along with student/lecturer ID (for EDU tickets), as we’ll need to verify it prior to assigning you your GDG DevFest Ukraine badge. If you don’t have proper identification, you won’t be able to receive a badge and won’t be admitted to the conference.
+To expedite the check-in process, we’ll begin badge pick-up on Thursday, October 11, (location will be published). Make sure to bring your ticket along with student/lecturer ID (for EDU tickets), as we’ll need to verify it prior to assigning you your GDG DevFest Santo Domingo badge. If you don’t have proper identification, you won’t be able to receive a badge and won’t be admitted to the conference.
 
 Everyone is guaranteed a seat for the keynotes but the best seats will be assigned on a first-come, first-served basis during badge pick-up beginning at 9AM on October 12th. So make sure to come in on time!
 
-Please note, you may not share, give, or otherwise provide your badge to anyone. GDG DevFest Ukraine badges aren’t replaceable, so don't lose yours or you won’t be readmitted to the conference. You must wear your GDG DevFest Ukraine badge to gain admission to the conference, including the sessions, workshops, and afterparty. If requested by security, please display or provide additional identification. GDG DevFest Ukraine badges may include your name, company or work title (if provided).
+Please note, you may not share, give, or otherwise provide your badge to anyone. GDG DevFest Santo Domingo badges aren’t replaceable, so don't lose yours or you won’t be readmitted to the conference. You must wear your GDG DevFest Santo Domingo badge to gain admission to the conference, including the sessions, workshops, and afterparty. If requested by security, please display or provide additional identification. GDG DevFest Santo Domingo badges may include your name, company or work title (if provided).
 
   
 
@@ -134,4 +134,4 @@ Smoking is only permitted in designated outdoor smoking areas.
 
 ### No Soliciting
 
-No solicitation or selling of items or services is allowed at GDG DevFest Ukraine. Any attendee conducting these activities may be removed from the conference.
+No solicitation or selling of items or services is allowed at GDG DevFest Santo Domingo. Any attendee conducting these activities may be removed from the conference.
