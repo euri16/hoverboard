@@ -1,5 +1,4 @@
 {
-  "blog" : { },
   "gallery" : [
     "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/IMG_0664.JPG?alt=media&token=2182ded3-4b8f-4fca-81ba-cfa02204cd45",
     "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/-IMG_0142.jpg?alt=media&token=09341930-e177-4d12-adef-3df2f17c7195",
@@ -13,7 +12,7 @@
   "notifications" : {
     "config" : {
       "icon" : "",
-      "timezone" : "+03:00"
+      "timezone" : "-04:00"
     },
     "messages" : { },
     "subscribers" : { },
@@ -22,13 +21,13 @@
   },
   "partners" : [ {
     "logos" : [ {
-      "order" : 0,
+      "order" : 1,
       "logoUrl" : "../images/logos/gdg-sdq.svg",
       "name" : "GDG Santo Domingo",
       "url" : "https://www.facebook.com/GDGSantoDomingo/"
     } ],
     "order" : 0,
-    "title" : "Organizer"
+    "title" : "Organizador"
   }, {
     "logos" : [ {
       "order" : 0,
@@ -41,15 +40,34 @@
   } ],
   "schedule" : {},
   "sessions" : {},
-  "speakers" : {},
+  "speakers" : {
+    "adrian_catalan" : {
+    "bio" : "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
+    "company" : "Sygic",
+    "companyLogo" : "/images/logos/google.svg",
+    "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+    "country" : "Guatemala, Guatemala City",
+    "featured" : true,
+    "name" : "Adrian Catalan",
+    "photo" : "/images/people/adrian.jpg",
+    "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/adrian_kajda.jpg",
+    "shortBio" : "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/noeBranagan",
+      "name" : "Twitter"
+    } ],
+    "order" : 0,
+    "title" : "Product Manager/Developer"
+  }},
   "team" : [ {
     "members" : [ {
       "name" : "Noe Branagan",
       "photo" : "/images/people/noe_branagan.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/noe_branagan.jpg?alt=media&token=2e21bbd3-5c0e-46b9-a3a2-23faab713390",
       "socials" : [{
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/noe.branagan",
+        "icon" : "ic",
+        "link" : "https://www.instagram.com/eonoe",
         "name" : "Facebook"
       }, {
         "icon" : "twitter",
@@ -87,56 +105,47 @@
   "tickets" : [ {
     "available" : true,
     "currency" : "$",
-    "ends" : "Sep 20",
-    "info" : "Requires valid student/lecturer ID",
-    "name" : "Student",
-    "price" : 30,
-    "soldOut" : false,
-    "starts" : "Jul 17",
-    "url" : "https://www.eventbrite.com/e/gdg-devfest-santo-domingo-2019-tickets-65326486279#tickets#tickets"
-  }, {
-    "available" : true,
-    "currency" : "$",
-    "ends" : "Jul 29",
-    "inDemand" : false,
-    "info" : "Or first 30 tickets",
-    "name" : "Super Early Bird",
-    "price" : 30,
-    "regular" : true,
-    "soldOut" : false,
-    "starts" : "Jul 17",
-    "url" : "https://www.eventbrite.com/e/gdg-devfest-santo-domingo-2019-tickets-65326486279#tickets"
-  }, {
-    "available" : true,
-    "currency" : "$",
-    "ends" : "Aug 18",
+    "ends" : "Aug 31",
     "inDemand" : true,
-    "info" : "Or first 50 tickets",
+    "info" : "O hasta agotar existencia",
     "name" : "Early Bird",
     "price" : 40,
-    "regular" : true,
-    "soldOut" : false,
-    "starts" : "Jul 17",
-    "url" : "https://www.eventbrite.com/e/gdg-devfest-santo-domingo-2019-tickets-65326486279#tickets"
-  }, {
-    "available" : true,
-    "currency" : "$",
-    "ends" : "Sep 20",
-    "inDemand" : false,
-    "info" : "Or first 350 tickets",
-    "name" : "Regular (Super Pass)",
-    "price" : 50,
     "primary" : true,
     "regular" : true,
     "soldOut" : false,
-    "starts" : "Jul 17",
+    "starts" : "Jun 17",
     "url" : "https://www.eventbrite.com/e/gdg-devfest-santo-domingo-2019-tickets-65326486279#tickets"
   }, {
     "available" : true,
     "currency" : "$",
-    "info" : "Get more for less with this offer",
-    "name" : "Invite A Friend (3x2)",
+    "ends" : "Sep 20",
+    "inDemand" : false,
+    "info" : "O hasta agotar existencia",
+    "name" : "Regular",
+    "price" : 50,
+    "regular" : true,
+    "soldOut" : false,
+    "starts" : "Aug 31",
+    "url" : "https://www.eventbrite.com/e/gdg-devfest-santo-domingo-2019-tickets-65326486279#tickets"
+    }, {
+      "available" : true,
+      "currency" : "$",
+      "ends" : "Sep 20",
+      "inDemand" : false,
+      "info" : "O hasta agotar existencia",
+      "name" : "Estudiante",
+      "price" : 30,
+      "regular" : true,
+      "soldOut" : false,
+      "starts" : "Aug 31",
+      "url" : "https://www.eventbrite.com/e/gdg-devfest-santo-domingo-2019-tickets-65326486279#tickets"
+    }, {
+    "available" : true,
+    "currency" : "$",
+    "info" : "O hasta agotar existencia",
+    "name" : "Invita un amigo (3x2)",
     "price" : 100,
+    "regular" : false,
     "soldOut" : false,
     "url" : "https://www.eventbrite.com/e/gdg-devfest-santo-domingo-2019-tickets-65326486279#tickets"
   } ],
