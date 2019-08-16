@@ -155,12 +155,12 @@
     }
   },
   "mapBlock": {
-    "title": "Location"
+    "title": "Lugar"
   },
   "subscribeBlock": {
     "callToAction": {
-      "description": "Get notified about the important conference updates",
-      "label": "Subscribe"
+      "description": "Subribete para optener las ultimas noticias del evento",
+      "label": "Subscribete"
     },
     "yourEmail": "Your email",
     "emailAddress": "Email Address",
@@ -207,18 +207,18 @@
     "image": "/images/team.jpg",
     "blocks": [
       {
-        "title": "Organizer",
-        "description": "<a href='https://meetup.com/GDG-Santo-Domingo/' target='_blank'>GDG Santo Domingo</a> is proud organizer of DevFest Santo Domingo",
+        "title": "Organizador",
+        "description": "<a href='https://meetup.com/GDG-Santo-Domingo/' target='_blank'>GDG Santo Domingo</a> es una comunidad que investiga, comparte y difunde tecnología open source en las áreas de desarrollo de software. Nuestro objetivo es fortalecer los conocimientos de los profesionales de TI en nuestro país difundiendo dichas tecnologías mediante eventos, workshops, reuniones mensuales, hangouts, entre otras actividades.",
         "callToAction": {
-          "label": "Open team page",
+          "label": "Equipo",
           "link": "/team"
         }
       },
       {
-        "title": "What is GDG?",
-        "description": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+        "title": "¿Que es GDG?",
+        "description": "Google Developers Group (GDG) - es una comunidad de entusiatas y profesionales de las tecnologias que voluntariamente organizan actividades para fortalezer el ecosistema compartiendo experiencias, inquitudes y nuevas tendencias, cualquiera persona puede unirse sin distincion; somos apadrinados por Google.",
         "callToAction": {
-          "label": "Read more",
+          "label": "Leer más",
           "link": "https://developers.google.com/groups/",
           "newTab": true
         }
