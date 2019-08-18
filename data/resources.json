@@ -1,26 +1,26 @@
 {
-  "title": "GDG DevFest Season 2018",
-  "description": "Be a hero. Be a GDG!",
+  "title": "DevFest Santo Domingo 2019",
+  "description": "Un evento no ordinario para la industria de Software en República Dominicana, organizado por la comunidad para la comunidad apoyado por Google.",
   "image": "images/social-share.jpg",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 12-13, 2018",
-  "partnershipProposition": "https://bit.ly/dfua17-partners",
-  "share": "Share",
-  "followOur": "Follow our",
-  "followUs": "Follow us",
-  "emailUs": "Email us",
-  "partnershipResources": "Partnership Resources",
+  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev, santo domingo, dominican republic",
+  "dates": "Septiembre 20-21, 2019",
+  "partnershipProposition": "",
+  "share": "Compartelo",
+  "followOur": "Sigue nuestro",
+  "followUs": "Siguenos",
+  "emailUs": "Contactanos",
+  "partnershipResources": "Patrocinios",
   "eventResources": "Event Resources",
-  "buyTicket": "Buy ticket",
+  "buyTicket": "Compra tu ticket",
   "signIn": "Sign in",
   "signOut": "Sign out",
-  "viewHighlights": "View Highlights",
-  "offlineMessage": "You can still work offline.",
+  "viewHighlights": "Highlights",
+  "offlineMessage": "Todavía funciona offline.",
   "cachingComplete": "Caching complete! Future visits will work offline.",
-  "newVersionAvailable": "A new version of this app is available.",
+  "newVersionAvailable": "Una nueva ya versión esta disponible.",
   "refresh": "Refresh",
   "position": "Position",
-  "country": "Country",
+  "country": "País",
   "time": "Time",
   "faq": "/data/faq.md",
   "cod": "/data/cod.md",
@@ -28,16 +28,16 @@
     "blog": "Blog"
   },
   "mySchedule": {
-    "title": "My Schedule",
-    "browseSession": "Browse sessions"
+    "title": "Mi Programación",
+    "browseSession": "Explora las sesiones"
   },
   "footerRelBlock": [
     {
-      "title": "About",
+      "title": "Acerca de",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
+          "name": "GDG Santo Domingo",
+          "url": "https://meetup.com/GDG-Santo-Domingo/",
           "newTab": true
         },
         {
@@ -46,34 +46,9 @@
           "newTab": true
         },
         {
-          "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
-          "newTab": true
-        }
-      ]
-    },
-    {
-      "title": "Explore Past DevFests",
-      "links": [
-        {
-          "name": "DFUA 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.firebaseapp.com//",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.firebaseapp.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.firebaseapp.com/",
-          "newTab": true
+          "name": "Equipo Organizador",
+          "url": "/team/",
+          "newTab": false
         }
       ]
     },
@@ -81,23 +56,18 @@
       "title": "Event Resources",
       "links": [
         {
-          "name": "Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Info Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "name": "Propuesta de Patrocinios",
+          "url": "http://bit.ly/devfest-sdq-19",
           "newTab": true
         },
         {
           "name": "Media Kit",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "url": "http://bit.ly/media-devfest19-sdq",
           "newTab": true
         },
         {
           "name": "Call for Papers",
-          "url": "https://drive.google.com/open?id=10tPuu_7ASM8C70SotqRqIW5Uzos9BzALilMMQPg_JvA",
+          "url": "https://www.papercall.io/devfest-santo-domingo",
           "newTab": true
         },
         {
@@ -108,64 +78,64 @@
       ]
     }
   ],
-  "subscribeNote": "No spam, only the latest news and updates!",
-  "codeOfConduct": "Code of Conduct",
+  "subscribeNote": "No spam, solo las ultimas noticias!",
+  "codeOfConduct": "Codigo de Conducta",
   "aboutBlock": {
-    "title": "What you need to know, before you ask.",
+    "title": "Que necesitas saber sobre el evento.",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
-        "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "description": "DevFest Santo Domingo nos trae lo mejor de la web, cloud, AI, ML, metodologías de desarrollo de software, UI/UX  y entre otras áreas de la industria a Santo Domingo por 2 días lleno de sesiones and demostraciones.",
+        "label": "Explora alguna de nuestras sesiones",
+        "link": ""
       },
       "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
-        "youtubeId": "TdpbgRgz6eE"
+        "description": "Sin duda el evento más grande celebrado en el país apadrinado por Google, nuestro equipo organiza el DevFest para tener un lugar donde compartir experiencias en una atmósfera llena de entusiastas del área de las tecnologías de información.",
+        "label": "Esto no es solamente en República Dominicana",
+        "youtubeId": "hTJ_-MxHKMY"
       }
     },
     "statisticsBlock": {
       "attendees": {
-        "label": "Attendees",
-        "number": "900"
+        "label": "Asistentes",
+        "number": "250+"
       },
       "days": {
-        "label": "Days",
+        "label": "Day2",
         "number": "2"
       },
       "sessions": {
         "label": "Sessions",
-        "number": "50"
+        "number": "20+"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "4"
+        "number": "3"
       }
     }
   },
   "ticketsBlock": {
     "title": "Tickets",
-    "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+    "ticketsDetails": "Tickets incluye todos los refrigerios durante los días del evento.",
     "soldOut": "You missed it!",
-    "notAvailableYet": "Not available yet",
+    "notAvailableYet": "No disponible todavía",
     "save": "Save ${discount}% today"
   },
   "partnersBlock": {
-    "title": "Partners",
-    "button": "Become a partner",
+    "title": "Patrocinadores",
+    "button": "Apoya esta Iniciativa",
     "form": {
-      "title": "Become a partner!",
+      "title": "Patrocina esta iniciativa para la comunidad",
       "submitLabel": "Submit",
-      "fullName": "Full Name",
-      "companyName": "Company Name"
+      "fullName": "Persona de Contacto(nombre)",
+      "companyName": "Nombre de la Empresa"
     },
-    "toast": "We will contact you soon!"
+    "toast": "Te contactaremso lo antes posible"
   },
   "featuredVideos": {
-    "title": "DFUA'16 featured videos",
+    "title": "Featured videos",
     "callToAction": {
       "label": "See all videos",
-      "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+      "link": ""
     }
   },
   "blog": {
@@ -173,7 +143,7 @@
     "suggested": "Up next"
   },
   "latestPostsBlock": {
-    "title": "The latest news",
+    "title": "Ultimas Noticias",
     "callToAction": {
       "label": "View all stories",
       "link": "/blog/"
@@ -185,9 +155,9 @@
     "previousYear": "Year"
   },
   "speakersBlock": {
-    "title": "Rockstar speakers",
+    "title": "Nuestros Charlistas",
     "callToAction": {
-      "label": "View all speakers",
+      "label": "Ver todos",
       "link": "/speakers/"
     }
   },
@@ -199,26 +169,26 @@
     }
   },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
-    "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
+    "title": "highlights",
+    "description": "Este año será un festival lleno de experiencias, esperamos que te unas y seas parte del Devfest Santo Domingo 2019. #DevFestSDQ19",
     "callToAction": {
-      "label": "See all photos",
-      "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
+      "label": "Ver todas",
+      "link": ""
     }
   },
   "mapBlock": {
-    "title": "Location"
+    "title": "Lugar"
   },
   "subscribeBlock": {
     "callToAction": {
-      "description": "Get notified about the important conference updates",
-      "label": "Subscribe"
+      "description": "Suscribete para obtener las últimas noticias del evento",
+      "label": "Subscribete"
     },
     "yourEmail": "Your email",
     "emailAddress": "Email Address",
     "firstName": "First Name",
     "lastName": "Last Name",
-    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
+    "formTitle": "Get the latest updates, insights and news about DevFest Santo Domingo sent to your inbox.",
     "emailRequired": "Please enter a valid email address.",
     "subscribe": "Subscribe",
     "subscribed": "Subscribed",
@@ -227,7 +197,7 @@
     "toast": "Successfully subscribed!"
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
+    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Santo Domingo](https://meetup.com/GDG-Santo-Domingo/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with the audience to boost industry of IT in Dominican Republic."
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
@@ -256,21 +226,21 @@
     }
   },
   "aboutOrganizerBlock": {
-    "image": "/images/team.jpg",
+    "image": "/images/team_photo.jpg",
     "blocks": [
       {
-        "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "title": "Organizador",
+        "description": "<a href='https://meetup.com/GDG-Santo-Domingo/' target='_blank'>GDG Santo Domingo</a>  es una comunidad que investiga, comparte y difunde tecnología open source en las áreas de desarrollo de software. Nuestro objetivo es fortalecer los conocimientos de los profesionales de TI en nuestro país difundiendo dichas tecnologías mediante eventos, workshops, reuniones mensuales, hangouts, entre otras actividades.",
         "callToAction": {
-          "label": "Open team page",
+          "label": "Equipo",
           "link": "/team"
         }
       },
       {
-        "title": "What is GDG?",
-        "description": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+        "title": "¿Que es GDG?",
+        "description": "Google Developers Group (GDG) - es una comunidad de entusiastas y profesionales de las tecnologías que voluntariamente organizan actividades para fortalecer el ecosistema compartiendo experiencias, inquietudes y nuevas tendencias, cualquiera persona puede unirse sin distinción; somos apadrinados por Google.",
         "callToAction": {
-          "label": "Read more",
+          "label": "Conoce más",
           "link": "https://developers.google.com/groups/",
           "newTab": true
         }
