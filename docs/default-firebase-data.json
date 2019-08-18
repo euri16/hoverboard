@@ -1,5 +1,15 @@
 {
-  "blog" : { },
+  "blog" : {
+    "c4p" : {
+      "backgroundColor" : "#3647a5",
+      "brief" : "Devfest Santo Domingo esta pautado para el 20-21 de Septiembre del 2019, en la ciudad de Santo Domingo. En esta versión el DevFest Santo Domingo tendrá un formato de 2 días...",
+      "content" : "Devfest Santo Domingo esta pautado para el 20-21 de Septiembre del 2019, en la ciudad de Santo Domingo. En esta versión el DevFest Santo Domingo tendrá un formato de 2 días, durante el cual los asistentes de varios perfiles (emprendedores, desarrolladores de software, diseñadores gráficos, mercadólogos), podrán recibir charlas sobre tecnología de software, principalmente enfocado a herramientas open source y tecnologías de Google. Además tendremos una competencia de programación (Developer Challenge), donde los desarrolladores podrán demostrar sus destrezas tanto con soluciones web como con aplicaciones móviles. <div layout horizontal center-justified> <a href=\"https://www.papercall.io/devfest-santo-domingo\" rel=\"noopener noreferrer\">   <paper-button primary>Envia tus Propuestas</paper-button> </a> </div>",
+      "image" : "/images/posts/c4p.jpg",
+      "published" : "2019-06-01",
+      "source" : "/data/blog/01-06-2019-c4p.md",
+      "title" : "Estamos buscando charlistas"
+    }    
+   },
   "gallery" : [
     "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/IMG_0664.JPG?alt=media&token=2182ded3-4b8f-4fca-81ba-cfa02204cd45",
     "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/-IMG_0142.jpg?alt=media&token=09341930-e177-4d12-adef-3df2f17c7195",
@@ -13,7 +23,7 @@
   "notifications" : {
     "config" : {
       "icon" : "",
-      "timezone" : "+03:00"
+      "timezone" : "-04:00"
     },
     "messages" : { },
     "subscribers" : { },
@@ -25,7 +35,7 @@
       "order" : 0,
       "logoUrl" : "../images/logos/gdg-sdq.svg",
       "name" : "GDG Santo Domingo",
-      "url" : "https://www.facebook.com/GDGSantoDomingo/"
+      "url" : "https://meetup.com/GDG-Santo-Domingo/"
     } ],
     "order" : 0,
     "title" : "Organizer"
@@ -37,25 +47,218 @@
       "url" : "https://www.google.com.ua/intl/en/about/"
     } ],
     "order" : 1,
-    "title" : "Gold Partners"
+    "title" : "Partners"
   } ],
   "schedule" : {},
   "sessions" : {},
-  "speakers" : {},
+  "speakers" : {
+    "lesly_zerna" : {
+      "badges" : [ {
+        "description" : "Machine Learning Google Developer Expert",
+        "link" : "https://developers.google.com/experts/people/gerard-sans.html",
+        "name" : "gde"
+      } ],
+      "bio" : "Google Developer Expert en Machine Learning. Co fundadora Mentor Her, la iniciativa para fomentar pasión por tecnología con más chicas. Mentor de estudiantes en Udacity en nanodegree de análisis de datos. Escribe en medium.com/@leslysandra sobre viajes y tecnología. Speaker internacional: motivacional y temas de inteligencia artificial. TEDx speaker 2018. Educadora de nuevas tecnologías en plataformas e-learning y docente en la UCB Cochabamba. Ingeniera en telecomunicaciones con maestría en ciencias de computación e ingeniería. Tutora en TuBecaBolivia. Coordinadora en latino America Del City.AI y School of AI.",
+      "company" : "Mentor Her",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "country" : "Cochabamba, Bolivia",
+      "featured" : true,
+      "name" : "Lesly Zerna",
+      "photo" : "/images/people/leslyzerna.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/speakers%2Fleslyzerna.jpg?alt=media&token=58a7f89d-85fd-4081-b9a9-fe6ea1cd277e",
+      "shortBio" : "Co fundadora Mentor Her, la iniciativa para fomentar pasión por tecnología con más chicas. Mentor de estudiantes en Udacity en nanodegree de análisis de datos...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/leslysandra",
+        "name" : "Twitter"
+      },{
+        "icon" : "website",
+        "link" : "https://medium.com/@leslysandra",
+        "name" : "Website"
+      } ],
+      "order" : 0,
+      "title" : "Google Developer Expert in Machine Learning"
+    },
+    "adrian_catalan" : {
+      "badges" : [ {
+        "description" : "Android, IoT & Firebase Google Developer Expert",
+        "link" : "https://developers.google.com/experts/people/gerard-sans.html",
+        "name" : "gde"
+      } ],
+      "bio" : "Adrián has been involved in software industry for 13+ years, working both in web and mobile apps. GDG Guatemala, GuatemalaJS and Nodebots former co-organizer. Currently he leads the Innovation Lab at Galileo University and is a Google Developer Expert(GDE) for Android, IoT and Firebase.",
+      "company" : "GalileoU",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "country" : "Guatemala City, Guatemala",
+      "featured" : true,
+      "name" : "Adrian Catalan",
+      "photo" : "/images/people/adrian.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/speakers%2Fadrian.jpeg?alt=media&token=73d7d47a-9c03-4e16-afdc-f2f78e4d8930",
+      "shortBio" : "Currently he leads the Innovation Lab at Galileo University and is a Google Developer Expert(GDE) for Android, IoT and Firebase...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/ykro",
+        "name" : "Twitter"
+      } ],
+      "order" : 1,
+      "title" : "Google Developer Expert in Android, IoT & Firebase"
+    },
+    "diego_degranda" : {
+      "badges" : [ {
+        "description" : "Android Google Developer Expert",
+        "link" : "https://developers.google.com/experts/people/dmytro-danylyk",
+        "name" : "gde"
+      }, {
+        "description" : "GDG Polymer Mexico",
+        "link" : "https://developers.google.com/groups/",
+        "name" : "gdg"
+      } ],
+      "bio" : "Soy un Google Developer Expert en Tecnologías web y Design Sprint Master con experiencia en desarrollo web, de producto, comunidades, innovación y emprendimiento. Soy fundador de Movagain, proyecto que trabaja para crear opciones de transporte sostenible para personas en sillas de ruedas, y plataforma que apunta mapear y clasificar todos los lugares accesibles en México para personas con discapacidades. Actualmente soy el General Manager de Centraal Academy, la primera academia de desarrollo enfocada en generar talento real listo para la industria de desarrollo de software en México y América Latina. Y como Community Program Manager en Centraal, donde me enfoco en ayudar a crear nuevas comunidades y a desarrollar otras existentes para brindar mayor valor a toda la comunidad.",
+      "company" : "Centraal Academy",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "country" : "Mexico City, Mexico",
+      "featured" : true,
+      "name" : "Diego De Granda",
+      "photo" : "/images/people/diegodegranda.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/speakers%2Fdiegodegranda.jpg?alt=media&token=43f7ac55-8138-41ec-9eee-b66694ffb8d0",
+      "shortBio" : "Actualmente soy el General Manager de Centraal Academy, la primera academia de desarrollo enfocada en generar talento real listo para la industria de desarrollo de software en México y América Latina...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/degranda10",
+        "name" : "Twitter"
+      } ],
+      "order" : 2,
+      "title" : "Google Developer Expert en Web Technologies"
+    },
+    "juan_guillermo" : {
+      "badges" : [ {
+        "description" : "Firebase & GCP Google Developer Expert",
+        "link" : "https://developers.google.com/experts/people/dmytro-danylyk",
+        "name" : "gde"
+      }, {
+        "description" : "GDG Cali",
+        "link" : "https://developers.google.com/groups/",
+        "name" : "gdg"
+      } ],
+      "bio" : "Juan Guillermo is the co-organizer of several local events, such as GDG Cali, startup weekend Colombia and free software. He has been involved in the tech community for the past 6 years. He attends more than 10 events per year as a guest speaker throughout Latin America, where he speaks about mobile, cloud, firebase, entrepreneurship and innovation. In 2016, he co-founded the first hacker school in Cali (DevHack), where he teaches programming different technologies such as front-end, mobile and back-end. He was the CTO and co-founder of lead IS consulting, where he has developed and deployed enterprise software and mobile applications on Cloud Computing Platforms. He is an educator at DevHack and several Universities at Cali, Colombia. Juan is GDE (Google Developer Expert) in Firebase & GCP, holds a BS in System Engineering and a MS in Software Engineering at Universidad San Buenaventura Cali.",
+      "company" : "DevHack",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "country" : "Cali, Colombia",
+      "featured" : true,
+      "name" : "Juan Guillermo Gómez",
+      "photo" : "/images/people/juanguillermo.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/speakers%2Fjuanguillermo.jpg?alt=media&token=bea64156-bb8a-44a4-b1cc-6330e2510ed3",
+      "shortBio" : "Co-founded the first hacker school in Cali (DevHack), where he teaches programming different technologies such as front-end, mobile and back-end...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/jggomezt",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/jggomezt/",
+        "name" : "LinkedIn"
+      } ],
+      "order" : 3,
+      "title" : "Google Developer Expert in Firebase & GCP"
+    },
+    "tono_guzman" : {
+      "badges" : [ {
+        "description" : "Firebase & GCP Google Developer Expert",
+        "link" : "https://developers.google.com/experts/people/dmytro-danylyk",
+        "name" : "gde"
+      }],
+      "bio" : "Tonio is a mexican software developer who has became a tech advocate to help people in Latin America and the Caribe to know, evaluate and adopt cloud technologies. He has been collaborating in Software Communities since 2010 as volunteer, speaker and organizer for Google Developer Groups and since 2014 have the title Google Developer Expert and Google Authorized Trainer. He is finding a new way with python, kotlin and go. Of Course he prefer backend over frontend. Loves cats and stickers :-)",
+      "company" : "GDE",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "country" : "Mexico City, Mexico",
+      "featured" : true,
+      "name" : "Tonio Guzman",
+      "photo" : "/images/people/tonoguzman.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/speakers%2Ftonoguzman.jpeg?alt=media&token=72cd3c09-ab51-4ac1-bdbb-11dd5348974f",
+      "shortBio" : "Tonio is a mexican software developer who has became a tech advocate to help people in Latin America and the Caribe to know, evaluate and adopt cloud technologies...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "http://twitter.com/tonioguzmanf",
+        "name" : "Twitter"
+        } ],
+      "order" : 4,
+      "title" : "Google Developer Expert in GCP"
+    },            
+    "joel_gomez" : {
+      "badges" : [ {
+        "description" : "Google Developer Expert in Web Technologies",
+        "link" : "https://developers.google.com/experts/people/dmytro-danylyk",
+        "name" : "gde"
+      }],
+      "bio" : "Application Developer in IBM; Instructor in Centraal Academy; Google Developer Expert in Web Technologies; JS Full Stack Developer; Master Pokemon.",
+      "company" : "IBM",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "country" : "Monterrey, Mexico",
+      "featured" : true,
+      "name" : "Joel Humberto Gómez Paredes",
+      "photo" : "/images/people/joelhumberto.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/speakers%2Fjoelhumberto.jpg?alt=media&token=0ebc2fec-3480-474f-bf0e-9543352c875f",
+      "shortBio" : "Application Developer in IBM; Instructor in Centraal Academy; Google Developer Expert in Web Technologies; JS Full Stack Developer; Master Pokemon.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "http://twitter.com/DezkaReid",
+        "name" : "Twitter"
+        }, {
+          "icon" : "website",
+          "link" : "https://medium.com/@DezkaReid",
+          "name" : "Website"
+          } ],
+      "order" : 5,
+      "title" : "Application Developer / Google Developer Expert in Web Technologies"
+    },
+    "carlo_renzo" : {
+      "badges" : [ {
+        "description" : "Google Developer Expert in Web Technologies",
+        "link" : "https://developers.google.com/experts/people/dmytro-danylyk",
+        "name" : "gde"
+      }],
+      "bio" : "Ingeniero de Sistemas de la Universidad Señor de Sipán. Software Engineer en Avantica. Android Developer Google Assistant GDE Bike & Chocolate Lover.",
+      "company" : "GDE",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "country" : "Lima, Peru",
+      "featured" : true,
+      "name" : "Carlo Renzo Huaman Torres",
+      "photo" : "/images/people/carlorenzo.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/speakers%2Fcarlorenzo.png?alt=media&token=7ed58da8-b843-48a7-b3c6-8430d0c4bd9c",
+      "shortBio" : "Ingeniero de Sistemas de la Universidad Señor de Sipán. Software Engineer en Avantica. Android Developer Google Assistant GDE Bike & Chocolate Lover.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "http://twitter.com/Tohure_",
+        "name" : "Twitter"
+        }, {
+          "icon" : "website",
+          "link" : "https://medium.com/@tohure",
+          "name" : "Website"
+          } ],
+      "order" : 6,
+      "title" : "Google Developer Expert en Assistant"
+    } 
+  },
   "team" : [ {
     "members" : [ {
       "name" : "Noe Branagan",
       "photo" : "/images/people/noe_branagan.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/noe_branagan.jpg?alt=media&token=2e21bbd3-5c0e-46b9-a3a2-23faab713390",
       "socials" : [{
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/noe.branagan",
-        "name" : "Facebook"
-      }, {
         "icon" : "twitter",
         "link" : "https://twitter.com/noeBranagan",
         "name" : "Twitter"
-      }, {
+        }, {
+          "icon" : "website",
+          "link" : "https://medium.com/@noebranagan",
+          "name" : "Website"
+        }, {
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/noebranagan/",
         "name" : "LinkedIn"
@@ -87,56 +290,47 @@
   "tickets" : [ {
     "available" : true,
     "currency" : "$",
-    "ends" : "Sep 20",
-    "info" : "Requires valid student/lecturer ID",
-    "name" : "Student",
-    "price" : 30,
-    "soldOut" : false,
-    "starts" : "Jul 17",
-    "url" : "https://www.eventbrite.com/e/gdg-devfest-santo-domingo-2019-tickets-65326486279#tickets#tickets"
-  }, {
-    "available" : true,
-    "currency" : "$",
-    "ends" : "Jul 29",
-    "inDemand" : false,
-    "info" : "Or first 30 tickets",
-    "name" : "Super Early Bird",
-    "price" : 30,
-    "regular" : true,
-    "soldOut" : false,
-    "starts" : "Jul 17",
-    "url" : "https://www.eventbrite.com/e/gdg-devfest-santo-domingo-2019-tickets-65326486279#tickets"
-  }, {
-    "available" : true,
-    "currency" : "$",
-    "ends" : "Aug 18",
+    "ends" : "Aug 31",
     "inDemand" : true,
-    "info" : "Or first 50 tickets",
+    "info" : "O hasta agotar existencia",
     "name" : "Early Bird",
     "price" : 40,
-    "regular" : true,
-    "soldOut" : false,
-    "starts" : "Jul 17",
-    "url" : "https://www.eventbrite.com/e/gdg-devfest-santo-domingo-2019-tickets-65326486279#tickets"
-  }, {
-    "available" : true,
-    "currency" : "$",
-    "ends" : "Sep 20",
-    "inDemand" : false,
-    "info" : "Or first 350 tickets",
-    "name" : "Regular (Super Pass)",
-    "price" : 50,
     "primary" : true,
     "regular" : true,
     "soldOut" : false,
-    "starts" : "Jul 17",
+    "starts" : "Jun 17",
     "url" : "https://www.eventbrite.com/e/gdg-devfest-santo-domingo-2019-tickets-65326486279#tickets"
   }, {
     "available" : true,
     "currency" : "$",
-    "info" : "Get more for less with this offer",
-    "name" : "Invite A Friend (3x2)",
+    "ends" : "Sep 20",
+    "inDemand" : false,
+    "info" : "O hasta agotar existencia",
+    "name" : "Regular",
+    "price" : 50,
+    "regular" : true,
+    "soldOut" : false,
+    "starts" : "Aug 31",
+    "url" : "https://www.eventbrite.com/e/gdg-devfest-santo-domingo-2019-tickets-65326486279#tickets"
+    }, {
+      "available" : true,
+      "currency" : "$",
+      "ends" : "Sep 20",
+      "inDemand" : false,
+      "info" : "O hasta agotar existencia",
+      "name" : "Estudiante",
+      "price" : 30,
+      "regular" : true,
+      "soldOut" : false,
+      "starts" : "Aug 31",
+      "url" : "https://www.eventbrite.com/e/gdg-devfest-santo-domingo-2019-tickets-65326486279#tickets"
+    }, {
+    "available" : true,
+    "currency" : "$",
+    "info" : "O hasta agotar existencia",
+    "name" : "Invita un amigo (3x2)",
     "price" : 100,
+    "regular" : false,
     "soldOut" : false,
     "url" : "https://www.eventbrite.com/e/gdg-devfest-santo-domingo-2019-tickets-65326486279#tickets"
   } ],

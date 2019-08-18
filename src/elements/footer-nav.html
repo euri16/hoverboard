@@ -8,54 +8,44 @@
       :host {
         margin: 0 20px;
       }
-
       .copyright {
         padding: 15px 0 0;
         float: left;
       }
-
       .cod {
         display: block;
       }
-
       .nav-inline {
         list-style: none;
         margin: 0;
         padding: 0;
       }
-
       .footer-logo {
         margin: 10px 30px 0 0;
         height: 24px;
         width: 120px;
         float: left;
       }
-
       a {
         color: var(--footer-text-color);
         padding-bottom: 2px;
         text-decoration: none;
       }
-
       a:hover {
         text-decoration: underline;
       }
-
       @media (min-width: 768px) {
         :host {
           margin: 15px 0;
         }
       }
-
       @media (min-width: 505px) {
-
         .copyright {
           margin: 0;
           padding: 15px 0 0 0;
           float: right;
           text-align: right;
         }
-
         .cod {
           display: inline-flex;
         }
@@ -86,19 +76,14 @@
   </template>
 
   <script>
-
     class FooterNav extends Polymer.Element {
       static get is() {
         return 'footer-nav';
       }
-
       _getYear() {
         return new Date().getFullYear();
       }
     }
-
     window.customElements.define(FooterNav.is, FooterNav);
-
   </script>
 </dom-module>
-

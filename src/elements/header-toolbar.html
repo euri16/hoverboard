@@ -15,49 +15,42 @@
         transition: background-color var(--animation), border-bottom-color var(--animation), color var(--animation);
         color: var(--primary-text-color);
       }
-
       :host([transparent]) {
         --iron-icon-fill-color: var(--hero-font-color, '#fff');
         background-color: transparent;
         border-bottom-color: transparent;
         color: var(--hero-font-color, '#fff');
       }
-
       :host([transparent]) .toolbar-logo {
         background-color: var(--hero-logo-color);
         opacity: var(--hero-logo-opacity, 1);
       }
-
       app-toolbar {
         margin: 0 auto;
         padding: 0 16px;
         height: auto;
         max-width: var(--max-container-width);
       }
-
       .toolbar-logo {
         display: block;
         width: 150px;
         height: 32px;
         background-color: var(--default-primary-color);
         transition: background-color var(--animation);
-        -webkit-mask: url('') no-repeat;
+        -webkit-mask: url('/images/logo-monochrome.svg') no-repeat;
       }
-
       .nav-items {
         --paper-tabs-selection-bar-color: var(--default-primary-color);
         --paper-tabs: {
           height: 64px;
         };
       }
-
       .nav-item a,
       .signin-tab {
         padding: 0 14px;
         color: inherit;
         text-transform: uppercase;
       }
-
       .profile-image {
         width: 32px;
         height: 32px;
@@ -65,7 +58,6 @@
         background-position: center;
         background-size: cover;
       }
-
       .dropdown-panel {
         padding: 24px;
         max-width: 300px;
@@ -73,21 +65,17 @@
         font-size: 16px;
         color: var(--primary-text-color);
       }
-
       .dropdown-panel p {
         margin-top: 0;
       }
-
       .dropdown-panel .panel-actions {
         margin: 0 -16px -16px 0;
       }
-
       .profile-details .profile-image {
         margin-right: 16px;
         width: 48px;
         height: 48px;
       }
-
       .profile-name,
       .profile-email {
         font-size: 14px;
@@ -95,7 +83,6 @@
         white-space: nowrap;
         color: var(--secondary-text-color);
       }
-
       .profile-action {
         margin-top: 4px;
         text-transform: uppercase;
@@ -103,23 +90,19 @@
         font-size: 14px;
         cursor: pointer;
       }
-
       paper-button iron-icon {
         margin-right: 8px;
         --iron-icon-fill-color: var(--hero-font-color);
       }
-
       .buy-button {
         margin-top: 12px;
       }
-
       @media (min-width: 640px) {
         app-toolbar {
           padding: 0 36px;
           height: initial;
         }
       }
-
     </style>
 
     <app-toolbar class="header">
@@ -227,12 +210,10 @@
   </template>
 
   <script>
-
     class HeaderToolbar extends ReduxMixin(Polymer.Element) {
       static get is() {
         return 'header-toolbar';
       }
-
       static get properties() {
         return {
           route: {
@@ -271,41 +252,33 @@
           transparent: Boolean,
         };
       }
-
       static get observers() {
         return [
           '_authStatusChanged(user.signedIn)',
         ];
       }
-
       connectedCallback() {
         super.connectedCallback();
         // eslint-disable-next-line no-undef
         HOVERBOARD.Elements.HeaderToolbar = this;
       }
-
       openDrawer() {
         uiActions.toggleDrawer(true);
       }
-
       closeDrawer() {
         uiActions.toggleDrawer(false);
       }
-
       signIn() {
         dialogsActions.openDialog(DIALOGS.SIGNIN);
       }
-
       signOut() {
         userActions.signOut();
       }
-
       _authStatusChanged(signedIn) {
         if (this.dialogs.signin.isOpened) {
           dialogsActions.closeDialog(DIALOGS.SIGNIN);
         }
       }
-
       _toggleNotifications() {
         this._closeNotificationMenu();
         if (this.notifications.status === NOTIFICATIONS_STATUS.GRANTED) {
@@ -314,7 +287,6 @@
         }
         this.dispatch(notificationsActions.requestPermission());
       }
-
       _getNotificationsIcon(status) {
         return status === NOTIFICATIONS_STATUS.DEFAULT
           ? 'bell-outline'
@@ -322,25 +294,20 @@
             ? 'bell'
             : 'bell-off';
       }
-
       _hideNotificationBlock(status, blockStatus) {
         return status !== NOTIFICATIONS_STATUS[blockStatus];
       }
-
       _closeNotificationMenu() {
         this.$.notificationsMenu.close();
       }
-
       _isAccountIconHidden(userSignedIn, isTabletPlus) {
         return userSignedIn || isTabletPlus;
       }
-
       _getTicketUrl(tickets) {
         if (!tickets.list.length) return '';
         const availableTicket = tickets.list.filter((ticket) => ticket.available)[0];
         return availableTicket ? availableTicket.url : tickets.list[0].url;
       }
-
       _setToolbarSettings(settings) {
         if (!settings) return;
         this.updateStyles({
@@ -350,7 +317,6 @@
         });
       }
     }
-
     customElements.define(HeaderToolbar.is, HeaderToolbar);
   </script>
 </dom-module>

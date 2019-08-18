@@ -2,21 +2,21 @@
   "organizer": {
     "name": "GDG Santo Domingo",
     "twitter": "gdgsdq",
-    "url": "https://www.facebook.com/GDGSantoDomingo/"
+    "url": "https://meetup.com/GDG-Santo-Domingo/"
   },
   "startDate": "2019-09-20T09:00:00-04:00",
-  "endDate": "2019-09-20T18:00:00-04:00",
+  "endDate": "2019-09-21T19:00:00-04:00",
   "webapp": {
-    "shortName": "DevFest",
+    "shortName": "Devfest",
     "themeColor": "#673AB7",
     "backgroundColor": "#673AB7"
   },
   "dateFormat": {
     "locale": "en-US"
   },
-  "hashtag": "DevFestSDQ19",
-  "disabledSchedule": false,
-  "showSessionShortAbstract": true,
+  "hashtag": "DevfestSDQ19",
+  "disabledSchedule": true,
+  "showSessionShortAbstract": false,
   "navigation": [
     {
       "route": "home",
@@ -24,6 +24,10 @@
       "label": "Home"
     },
     {
+      "route": "speakers",
+      "permalink": "/speakers/",
+      "label": "Speakers"
+    },    {
       "route": "team",
       "permalink": "/team/",
       "label": "Team"
@@ -31,7 +35,7 @@
   ],
   "heroSettings": {
     "home": {
-      "description": "Be a hero. Be a GDG!",
+      "description": "Un evento no ordinario para profesionales y entuciastas de la tecnología.",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
@@ -40,7 +44,7 @@
     },
     "blog": {
       "title": "Blog",
-      "metaDescription": "Read stories from our team",
+      "metaDescription": "Le las ultimas noticias de nuestro equipo",
       "background": {
         "color": "#FFF"
       },
@@ -48,24 +52,24 @@
     },
     "speakers": {
       "title": "Speakers",
-      "metaDescription": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
-      "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
+      "metaDescription": "Presencia de expertos de diferentes areas que estan creando para el futuro del cloud, mobile, AI, ML & UI/UX. Estaremos agregando más en los siguientes dias, mantente atento.",
+      "description": "Presencia de expertos de diferentes areas que estan creando para el futuro del cloud, mobile, AI, ML & UI/UX. Estaremos agregando más en los siguientes dias, mantente atento.",
       "background": {
         "color": "#FFF"
       },
       "fontColor": "#424242"
     },
     "previousSpeakers": {
-      "title": "Previous Speakers",
-      "metaDescription": "Check who was with us last years",
+      "title": "Charlistas Anteriores",
+      "metaDescription": "Algunos de nuestros charlistas en previas ediciones",
       "background": {
         "color": "#FFF"
       },
       "fontColor": "#424242"
     },
     "schedule": {
-      "title": "Schedule",
-      "metaDescription": "Choose your sessions to visit",
+      "title": "Programa",
+      "metaDescription": "Selecciona tus conferencias",
       "background": {
         "color": "#fff"
       },
@@ -73,7 +77,7 @@
     },
     "team": {
       "title": "Team",
-      "metaDescription": "Get more info about organizers",
+      "metaDescription": "Obten más información acerda de los organizadores",
       "background": {
         "color": "#fff"
       },
@@ -81,15 +85,15 @@
     },
     "faq": {
       "title": "FAQs",
-      "metaDescription": "Find you answer right here!",
+      "metaDescription": "Encuentra tus respuestas aqui!",
       "background": {
         "color": "#fff"
       },
       "fontColor": "#424242"
     },
     "cod": {
-      "title": "Code Of Conduct",
-      "metaDescription": "Lear more about our expectations for all those who participate in our community",
+      "title": "Codigo de Conducta",
+      "metaDescription": "Lee sobre nuestras expectativas para todos los participantes de nuestra comunidad",
       "background": {
         "color": "#fff"
       },
@@ -97,7 +101,7 @@
     }
   },
   "location": {
-    "label": "Location",
+    "label": "Lugar",
     "name": "Centro Indotel",
     "city": "Santo Domingo",
     "short": "Santo Domingo, Dominican Republic",
@@ -111,7 +115,7 @@
       "latitude": 18.4764174,
       "longitude": -69.8860506
     },
-    "description": "The recently renovated Indotel Center in the Colonial City"
+    "description": "El recien renovado Centro Indotel un espacio preparado para generar impacto en la revolución digital del país."
   },
   "mediaQueries": {
     "xs": {
@@ -202,7 +206,7 @@
       "itemsCount": 6
     },
     "tickets": {
-      "itemsCount": 5
+      "itemsCount": 4
     }
   }
 }
