@@ -47,7 +47,7 @@
       "url" : "https://meetup.com/GDG-Santo-Domingo/"
     } ],
     "order" : 0,
-    "title" : "Organizer"
+    "title" : "Organizador"
   }, {
     "logos" : [ {
       "order" : 0,
@@ -56,215 +56,213 @@
       "url" : "https://www.google.com.ua/intl/en/about/"
     } ],
     "order" : 1,
-    "title" : "General Partners"
+    "title" : "Patrocinador Principal"
   } ],
   "schedule" : {
     "2019-09-20" : {
-      "dateReadable" : "September 20",
+      "dateReadable" : "Septiembre 20",
       "timeslots" : [ {
         "endTime" : "09:30",
         "sessions" : [ {
-          "items" : [ 139 ]
+          "items" : [ 132 ]
         } ],
         "startTime" : "08:00"
       }, {
-        "endTime" : "11:10",
+        "endTime" : "09:45",
         "sessions" : [ {
           "items" : [ 136 ]
         } ],
-        "startTime" : "09:40"
+        "startTime" : "09:30"
       }, {
         "endTime" : "11:00",
         "sessions" : [ {
           "items" : [ 139 ]
         } ],
-        "startTime" : "11:30"
+        "startTime" : "09:45"
       }, {
         "endTime" : "11:40",
         "sessions" : [ {
-          "items" : [ 103, 112 ]
+          "items" : [ 126 ]
         }, {
-          "items" : [ 120 ]
-        }, {
-          "extend" : 3,
-          "items" : [ 109 ]
+          "items" : [ 101 ]
         } ],
         "startTime" : "11:00"
       }, {
-        "endTime" : "12:30",
+        "endTime" : "12:20",
         "sessions" : [ {
-          "items" : [ 129 ]
+          "items" : [ 109 ]
         }, {
           "items" : [ 116 ]
         } ],
-        "startTime" : "11:50"
+        "startTime" : "11:40"
       }, {
-        "endTime" : "14:00",
+        "endTime" : "13:30",
         "sessions" : [ {
           "items" : [ 133 ]
         } ],
-        "startTime" : "12:30"
+        "startTime" : "12:20"
       }, {
-        "endTime" : "14:40",
+        "endTime" : "14:10",
         "sessions" : [ {
-          "items" : [ 101 ]
-        }, {
           "items" : [ 118 ]
         }, {
-          "extend" : 2,
           "items" : [ 107 ]
         } ],
-        "startTime" : "14:00"
+        "startTime" : "13:30"
       }, {
-        "endTime" : "15:30",
+        "endTime" : "14:50",
         "sessions" : [ {
-          "items" : [ 140 ]
+          "items" : [ 103 ]
         }, {
-          "items" : [ 126 ]
+          "items" : [ 142 ]
+        } ],
+        "startTime" : "14:10"
+      }, {
+        "endTime" : "15:20",
+        "sessions" : [ {
+          "items" : [ 134 ]
         } ],
         "startTime" : "14:50"
       }, {
         "endTime" : "16:00",
         "sessions" : [ {
-          "items" : [ 134 ]
-        } ],
-        "startTime" : "15:30"
-      }, {
-        "endTime" : "16:40",
-        "sessions" : [ {
-          "items" : [ 105 ]
-        }, {
           "items" : [ 127 ]
         }, {
-          "extend" : 3,
           "items" : [ 119 ]
         } ],
-        "startTime" : "16:00"
+        "startTime" : "15:20"
       }, {
-        "endTime" : "17:30",
-        "sessions" : [ {
-          "items" : [ 112 ]
-        }, {
-          "items" : [ 111 ]
-        } ],
-        "startTime" : "16:50"
-      }, {
-        "endTime" : "18:20",
+        "endTime" : "16:40",
         "sessions" : [ {
           "items" : [ 106 ]
         }, {
-          "items" : [ 125 ]
-        } ],
-        "startTime" : "17:40"
-      }, {
-        "endTime" : "22:30",
-        "sessions" : [ {
-          "items" : [ 137 ]
-        } ],
-        "startTime" : "18:30"
-      } ],
-      "tracks" : [ {
-        "title" : "Main stage"
-      }, {
-        "title" : "Room 8"
-      }, {
-        "title" : "Room 11"
-      } ]
-    },
-    "2019-09-21" : {
-      "dateReadable" : "September 21",
-      "timeslots" : [ {
-        "endTime" : "10:10",
-        "sessions" : [ {
-          "items" : [ 135 ]
-        } ],
-        "startTime" : "09:30"
-      }, {
-        "endTime" : "10:50",
-        "sessions" : [ {
-          "items" : [ 114 ]
-        }, {
-          "items" : [ 117 ]
-        }, {
-          "items" : [ 121 ]
-        } ],
-        "startTime" : "10:10"
-      }, {
-        "endTime" : "11:40",
-        "sessions" : [ {
-          "items" : [ 122 ]
-        }, {
-          "items" : [ 113 ]
-        }, {
-          "extend" : 2,
-          "items" : [ 121 ]
-        } ],
-        "startTime" : "11:00"
-      }, {
-        "endTime" : "12:30",
-        "sessions" : [ {
-          "items" : [ 104 ]
-        }, {
-          "items" : [ 124 ]
-        } ],
-        "startTime" : "11:50"
-      }, {
-        "endTime" : "14:00",
-        "sessions" : [ {
-          "items" : [ 133 ]
-        } ],
-        "startTime" : "12:30"
-      }, {
-        "endTime" : "14:40",
-        "sessions" : [ {
-          "items" : [ 108 ]
-        }, {
-          "items" : [ 128 ]
-        }, {
-          "extend" : 2,
-          "items" : [ 102 ]
-        } ],
-        "startTime" : "14:00"
-      }, {
-        "endTime" : "15:30",
-        "sessions" : [ {
-          "items" : [ 110 ]
-        }, {
-          "items" : [ 123 ]
-        } ],
-        "startTime" : "14:50"
-      }, {
-        "endTime" : "16:00",
-        "sessions" : [ {
-          "items" : [ 134 ]
-        } ],
-        "startTime" : "15:30"
-      }, {
-        "endTime" : "16:40",
-        "sessions" : [ {
-          "items" : [ 131 ]
-        }, {
-          "items" : [ 140 ]
-        }, {
-          "extend" : 2,
-          "items" : [ 130 ]
+          "items" : [ 111 ]
         } ],
         "startTime" : "16:00"
       }, {
-        "endTime" : "17:30",
+        "endTime" : "17:20",
         "sessions" : [ {
-          "items" : [ 115 ]
+          "items" : [ 112 ]
         }, {
-          "items" : [ 140 ]
+          "items" : [ 121 ]
         } ],
-        "startTime" : "16:50"
+        "startTime" : "16:40"
+      }, {
+        "endTime" : "20:00",
+        "sessions" : [ {
+          "items" : [ 137 ]
+        } ],
+        "startTime" : "18:00"
       } ],
       "tracks" : [ {
         "title" : "Expo hall"
       }, {
         "title" : "Conference hall"
+      } ]
+    },
+    "2019-09-21" : {
+      "dateReadable" : "Septiembre 21",
+      "timeslots" : [ {
+        "endTime" : "09:30",
+        "sessions" : [ {
+          "items" : [ 135 ]
+        } ],
+        "startTime" : "08:30"
       }, {
-        "title" : "Workshops hall"
+        "endTime" : "10:10",
+        "sessions" : [ {
+          "items" : [ 125 ]
+        }, {
+          "items" : [ 104 ]
+        } ],
+        "startTime" : "09:30"
+      }, {
+        "endTime" : "10:50",
+        "sessions" : [ {
+          "items" : [ 122 ]
+        }, {
+          "items" : [ 113 ]
+        } ],
+        "startTime" : "10:10"
+      }, {
+        "endTime" : "11:30",
+        "sessions" : [ {
+          "items" : [ 117 ]
+        }, {
+          "items" : [ 124 ]
+        } ],
+        "startTime" : "10:50"
+        }, {
+          "endTime" : "12:10",
+          "sessions" : [ {
+            "items" : [ 129 ]
+          }, {
+            "items" : [ 143 ]
+          } ],
+          "startTime" : "11:30"
+        }, {
+        "endTime" : "13:30",
+        "sessions" : [ {
+          "items" : [ 133 ]
+        } ],
+        "startTime" : "12:10"
+      }, {
+        "endTime" : "13:10",
+        "sessions" : [ {
+          "items" : [ 108 ]
+        }, {
+          "items" : [ 102 ]
+        } ],
+        "startTime" : "12:30"
+      }, {
+        "endTime" : "14:00",
+        "sessions" : [ {
+          "items" : [ 110 ]
+        }, {
+          "items" : [ 123 ]
+        } ],
+        "startTime" : "13:10"
+      }, {
+        "endTime" : "14:40",
+        "sessions" : [ {
+          "items" : [ 134 ]
+        } ],
+        "startTime" : "14:00"
+      }, {
+        "endTime" : "15:20",
+        "sessions" : [ {
+          "items" : [ 131 ]
+        }, {
+          "items" : [ 141 ]
+        } ],
+        "startTime" : "14:40"
+      }, {
+        "endTime" : "16:00",
+        "sessions" : [ {
+          "items" : [ 115 ]
+        }, {
+          "items" : [ 130 ]
+        } ],
+        "startTime" : "15:20"
+        }, {
+          "endTime" : "16:40",
+          "sessions" : [ {
+            "items" : [ 120 ]
+          }, {
+            "items" : [ 128 ]
+          } ],
+          "startTime" : "16:00"
+          }, {
+            "endTime" : "20:00",
+            "sessions" : [ {
+              "items" : [ 138 ]
+            } ],
+            "startTime" : "18:00"
+          } ],
+          "tracks" : [ {
+        "title" : "Expo hall"
+      }, {
+        "title" : "Conference hall"
       } ]
     }
   },
@@ -478,7 +476,7 @@
       "complexity" : "Intermediate",
       "description" : "Esta charla trata sobre como podemos cambiar nuestro mindset de imperativo a reactivo. El beneficio de esto es que nos centramos en el “¿Qué queremos?” y no en “¿Cómo?”. La programación reactiva esta orientada al manejo de streams de datos asíncronos y a la propagación del cambio en la aplicación.",
       "language" : "Spanish",
-      "speakers" : [ "raymond" ],
+      "speakers" : [ "raymond_coplin" ],
       "tags" : [ "Web", "Angular" ],
       "title" : "Thinking Reactively with RxJS"
     },
@@ -517,20 +515,36 @@
       "description" : "The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code. Therefore, making it easy to read makes it easier to write, so in the talk we’re going to see why code readability matters.",
       "language" : "Spanish",
       "speakers" : [ "danny_feliz" ],
-      "tags" : [ "Programmin" ],
+      "tags" : [ "Programming" ],
       "title" : "The Art of Readable Code - Why Code readability matters"
     },
+    "142" : {
+      "complexity" : "Beginner",
+      "description" : "Recursos acerca de cómo empezar a trabajar con Kotlin hoy día, hay muchos: videos, tutoriales, blogs, codelabs, etc. Así, para aprender Kotlin como lenguaje nunca faltarán fuentes de información para entender el lenguaje y sus poderes. Pero al momento de pararse frente a un proyecto que tiene un codebase en otro lenguaje y empezar a migrarlo o integrarlo a Kotlin, no es tan simple, pues contextualizar el poder de Kotlin y aplicarlo efectivamente requiere de práctica para poder escribir adecuadamente el código. En esta charla basados en la experiencia que tuve en la migración/integración de Kotlin a una app escrita totalmente en Java compartiré algunos consejos y trucos para facilitar esa transición.",
+      "language" : "Spanish",
+      "speakers" : [ "carlos_daniel" ],
+      "tags" : [ "Kotlin", "Android" ],
+      "title" : "Cómo migrar efectivamente a Kotlin una app Android"
+    },
+    "143" : {
+      "complexity" : "Beginner",
+      "description" : "A lot of people want to get involved in the mobile development world because this is part of the future. Now it’s time to clarify doubts and mention the parameters to be taken into account when choosing a specific tool that suits our needs. Are you ready?",
+      "language" : "Spanish",
+      "speakers" : [ "luis_matos" ],
+      "tags" : [ "Mobile" ],
+      "title" : "The Perfect Framework in the Mobile Development World"
+    },
     "132" : {
-      "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
+      "description" : "Haz tu registro y conversa con colegas mientras da inicio oficial del Devfest Santo Domingo 2019",
       "icon" : "registration",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
-      "title" : "Registration & morning Coffee"
+      "title" : "Registro"
     },
     "133" : {
       "description" : "Foooooooood!",
       "icon" : "lunch",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
-      "title" : "Lunch"
+      "title" : "Almuerzo"
     },
     "134" : {
       "description" : "Coffeeeeeee!",
@@ -540,27 +554,27 @@
     },
     "135" : {
       "description" : "Coffeeeeeee!",
-      "icon" : "coffee-break",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fmorning.jpg?alt=media&token=d0da3d64-fc63-48c6-9d41-1460451dca64",
-      "title" : "Morning coffee"
+      "icon" : "registration",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
+      "title" : "Registro"
     },
     "136" : {
-      "description" : "Official start of the conference. Greetings from the organizers, sponsors and partners.",
+      "description" : "Inicio oficial del Devfest Santo Domingo. Bienvenida de los organizadores, sponsors y partners.",
       "icon" : "opening",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
       "language" : "English",
       "title" : "DevFest Santo Domingo 2019 Opening"
     },
     "137" : {
-      "description" : "Afterparty is a great time to have some fun and meet new people",
+      "description" : "Buen momento para conocer nuevos colegas o nuevos amigos",
       "icon" : "party",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fparty.jpg?alt=media&token=8e413f01-373a-40bf-bb87-1dcf1d8e6af1",
-      "title" : "Afterparty & Networking"
+      "title" : "Networking & Surprises"
     },
     "138" : {
-      "description" : "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
+      "description" : "Trata de no perderte de la ceremonia de cierre, no dejes que te cuenten de que te perdiste.",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
-      "title" : "Conference closing and contest winners announcements"
+      "title" : "Cierre del Devfest Santo Domingo 2019 y Anuncios"
     },
     "139" : {
       "description" : "TBD",
@@ -1205,7 +1219,7 @@
       "title" : "Senior Software Developer"
     },
     "john_troncoso" : {
-      "bio" : "Hola, soy John Troncoso, un desarrollador aplicaciones web, actualmente trabajo para la autoridad de impuestos en RD (DGII), integrando aplicaciones, y desarrollando servicios para diferentes ambientes, en stacks como dotnet y node.",
+      "bio" : "Hi, I'm John Troncoso, I'm a software engineer, I work integrating applications and services for different environments, and building back-ends services in tech stacks like dotnet, node, react and different types of data stores like Relational databases and NoSQL Databases. I like trying new technology stacks and compare them. I am a fan of Functional programming, Video games, Anime and Motorsport.",
       "company" : "DGII",
       "companyLogo" : "/images/logos/google.svg",
       "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
@@ -1214,14 +1228,18 @@
       "name" : "John Troncoso",
       "photo" : "/images/people/john_troncoso.jpeg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/speakers%2Fjohn_troncoso.jpeg?alt=media&token=02514c3b-f394-46b3-aecb-cb71df8eb550",
-      "shortBio" : "Hola, soy John Troncoso, un desarrollador aplicaciones web, actualmente trabajo para la autoridad de impuestos en RD (DGII), integrando aplicaciones, y desarrollando servicios para diferentes ambientes, en stacks como dotnet y node.",
+      "shortBio" : "Hi, I'm John Troncoso, I'm a software engineer, I work integrating applications and services for different environments, and building back-ends services in tech stacks like dotnet, node, react and different types of data stores like Relational databases and NoSQL Databases. I like trying new technology stacks and compare them. I am a fan of Functional programming, Video games, Anime and Motorsport.",
       "socials" : [ {
         "icon" : "twitter",
         "link" : "http://twitter.com/JohnNTroncosoM",
         "name" : "Twitter"
+        }, {
+          "icon" : "linkedin",
+          "link" : "https://do.linkedin.com/in/john-nidbert-troncoso-matos-6b181757/",
+          "name" : "Linkedin"
             } ],
       "order" : 20,
-      "title" : "Web Developer"
+      "title" : "Software Engineer"
     },
     "danny_feliz" : {
       "bio" : "Hey! I am a full-stack web developer who loves computer science and hipster technologies. The best way to know me will be researching on Github’s profile. Over the last 5+ years, I have developed different information systems and APIs including Web sites using many technologies such as PHP, Java, C# (ASP.NET), Javascript (Vue / React / Node.js), MySQL, Oracle, Mongo, Redis and many others.",

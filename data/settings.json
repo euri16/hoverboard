@@ -105,20 +105,20 @@
   },
   "location": {
     "label": "Lugar",
-    "name": "Centro Indotel",
+    "name": "Caribbean Cinemas",
     "city": "Santo Domingo",
     "short": "Santo Domingo, Dominican Republic",
-    "address": "Calle Isabel La Católica, Santo Domingo 10212",
+    "address": "Downtown Center Av. Nuñez de Caceres, Av. Rómulo Betancourt, Santo Domingo 10114",
     "pointer": {
-      "latitude": 18.4764174,
-      "longitude": -69.8860506,
+      "latitude": 18.4503649,
+      "longitude": -69.9529958,
       "zoom": 8
     },
     "mapCenter": {
-      "latitude": 18.4764174,
-      "longitude": -69.8860506
+      "latitude": 18.4503649,
+      "longitude": -69.9529958
     },
-    "description": "El recien renovado Centro Indotel un espacio preparado para generar impacto en la revolución digital del país."
+    "description": "Caribbean Cinemas, Downtown Center."
   },
   "mediaQueries": {
     "xs": {

@@ -84,9 +84,9 @@
     "title": "Que necesitas saber sobre el evento.",
     "callToAction": {
       "featuredSessions": {
-        "description": "DevFest Santo Domingo nos trae lo mejor de la web, cloud, AI, ML, metodologías de desarrollo de software, UI/UX  y entre otras áreas de la industria a Santo Domingo por 2 días lleno de sesiones and demostraciones.",
+        "description": "DevFest Santo Domingo nos trae lo mejor de la web, cloud, AI, ML, metodologías de desarrollo de software, UI/UX  y entre otras áreas de la industria a la ciudad de Santo Domingo por dos días lleno de sesiones y demostraciones.",
         "label": "Explora alguna de nuestras sesiones",
-        "link": ""
+        "link": "/schedule/"
       },
       "howItWas": {
         "description": "Sin duda el evento más grande celebrado en el país apadrinado por Google, nuestro equipo organiza el DevFest para tener un lugar donde compartir experiencias en una atmósfera llena de entusiastas del área de las tecnologías de información.",
@@ -100,16 +100,16 @@
         "number": "250+"
       },
       "days": {
-        "label": "Day2",
+        "label": "Dias",
         "number": "2"
       },
       "sessions": {
-        "label": "Sessions",
+        "label": "Conferencias",
         "number": "20+"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "3"
+        "number": "2"
       }
     }
   },
