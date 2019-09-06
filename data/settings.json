@@ -28,14 +28,17 @@
       "permalink": "/speakers/",
       "label": "Speakers"
     },    {
-      "route": "team",
+        "route": "schedule",
+        "permalink": "/schedule/",
+        "label": "Schedule"
+      },{      "route": "team",
       "permalink": "/team/",
       "label": "Team"
     }
   ],
   "heroSettings": {
     "home": {
-      "description": "Un evento no ordinario para la industria de Software en República Dominicana, organizado por la comunidad para la comunidad apoyado por Google.",
+      "description": "Un evento no ordinario para la industria de Software en República Dominicana.",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"

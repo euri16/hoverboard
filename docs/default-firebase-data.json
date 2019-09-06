@@ -62,23 +62,23 @@
     "2019-09-20" : {
       "dateReadable" : "September 20",
       "timeslots" : [ {
-        "endTime" : "10:00",
+        "endTime" : "09:30",
         "sessions" : [ {
-          "items" : [ 132 ]
+          "items" : [ 139 ]
         } ],
-        "startTime" : "09:00"
+        "startTime" : "08:00"
       }, {
-        "endTime" : "10:15",
+        "endTime" : "11:10",
         "sessions" : [ {
           "items" : [ 136 ]
         } ],
-        "startTime" : "10:00"
+        "startTime" : "09:40"
       }, {
         "endTime" : "11:00",
         "sessions" : [ {
           "items" : [ 139 ]
         } ],
-        "startTime" : "10:15"
+        "startTime" : "11:30"
       }, {
         "endTime" : "11:40",
         "sessions" : [ {
@@ -164,11 +164,11 @@
         "startTime" : "18:30"
       } ],
       "tracks" : [ {
-        "title" : "Expo hall"
+        "title" : "Main stage"
       }, {
-        "title" : "Conference hall"
+        "title" : "Room 8"
       }, {
-        "title" : "Workshops hall"
+        "title" : "Room 11"
       } ]
     },
     "2019-09-21" : {
@@ -270,283 +270,255 @@
   },
   "sessions" : {
     "101" : {
-      "complexity" : "Beginner",
-      "description" : "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform",
-      "speakers" : [ "mete_atamel", "adrian_kajda" ],
-      "tags" : [ "Cloud" ],
-      "title" : "Windows and .NET on Google Cloud Platform "
+      "complexity" : "Intermediate",
+      "description" : "Jetbrains libero un framework asíncrono con alta escalabilidad llamado Ktor para desarrollar aplicaciones a nivel de servidor. En esta charla crearemos un microservicio con ktor y lo desplegaremos en Cloud Run de GCP.",
+      "language" : "Spanish",
+      "speakers" : [ "juan_guillermo" ],
+      "tags" : [ "Cloud", "Kotlin" ],
+      "title" : "Mobile Backends with ktor and Google Cloud"
     },
     "102" : {
       "complexity" : "Beginner",
-      "description" : "Do you remember the game Simon says from the 80s? I don’t know about you, but I know many that spent hours trying to press those specific sequences of red, green, blue and yellow buttons in the correct order. But why play on your own? We’ve implemented a gRPC server that allows you to play Simon with other players over the internet!\n\nIn this workshop we will dive into the toolset and libraries to build your very own Simon Says client for this server. We will have a message description in Protocol Buffers format and some stub code in several languages ready for you to play with. The goal for this workshop is for you to have a working client that you can use to play (and beat!) other attendees of the workshop.",
-      "language" : "English",
-      "speakers" : [ "mete_atamel" ],
-      "tags" : [ "Cloud" ],
-      "title" : "Hands-on gRPC experience building your own multiplayer game client"
+      "description" : "We’ll learn more about language features(Coroutines), libraries(Koin) and how these play together with Jetpack, particularly with architecture components. All to boost the development process, making our life easier reducing boilerplate and allowing us to build robust apps with full-flavored Kotlin.",
+      "language" : "Spanish",
+      "speakers" : [ "adrian_catalan" ],
+      "tags" : [ "Kotlin" ],
+      "title" : "Hakuna matata: Koin, Koroutines & all the Kotlin love for Android"
     },
     "103" : {
       "complexity" : "Intermediate",
-      "description" : "Doze mode is just around the corner. \nIntroduced in Marshmallow, as the shy guy that was allowed to step in only when your device went to sleep. ZzzZzzzz\nWith the new N release, Doze mode becomes the rockstar. He rushes into the room with a big shabang by shooting all background services and network requests that forgot to get away. \nHe should no longer be shy. He just shoots and dances on bones of your scheduled alarms, while you wonder why this particular task is no longer running.\nWith the new Doze mode, you require to adapt your app architecture to the new reality.\nOn this talk, we will learn how to survive Doze mode using Job Scheduler, Content Provider and stay in one piece.",
+      "description" : "In some particular cases, providing a DSL can greatly improve the productivity of your dev team. Java is not the best language to provide such DSL. But Kotlin has tons of features that can help you there.",
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/yonatan-levin-knock-knock-whos-there-doze",
-      "speakers" : [ "yonatan_levin" ],
-      "tags" : [ "Android" ],
-      "title" : "Knock knock! Who's there? Doze."
+      "speakers" : [ "nicolas_frankel" ],
+      "tags" : [ "Kotlin" ],
+      "title" : "Designing a DSL with Kotlin"
     },
     "104" : {
-      "complexity" : "Beginner",
-      "description" : "It's no longer just about digitizing our environment. It’s rather about pervasive and ubiquitous computing. Almost all everyday things will turn into connected devices soon. This “Internet of Things” will allow the Web to be physically tangible. But what is the value, and how can one prevent IoT applications which just seem to be only more expensive and complicated than conventional solutions. Sascha will discuss the purpose and guide you through this complex topic showing inspiring solutions, tips from practice, and code samples in a variety of technologies from simple Bluetooth Eddystone Beacons to more sophisticated IoT platforms like Eclipse SmartHome.",
+      "description" : "Key Takeaways: •Creative Problem Solving •Customer Service & Support •Generational Gaps & Workplace Diversity •Goal Setting •Leadership and Influence •Employee Efficiency •Using Group Dynamics •The loss of translation in a text/email. •The value of how things are said •How someone hears a word",
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/sascha-wolter-the-physical-web-context-is-king",
-      "speakers" : [ "sascha_wolter" ],
-      "tags" : [ "Web" ],
-      "title" : "The Physical Web: Context is King!",
-      "videoId" : "fLfQNp75kbc"
+      "speakers" : [ "crux_conception" ],
+      "title" : "Team Dynamics & Communication Skills (For Software Engineering Team Projects, Start Ups & Customer Service)"
     },
     "105" : {
-      "complexity" : "Intermediate",
-      "description" : "TBD",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/rustem-arzymbetov-intro-to-tensorflow",
-      "speakers" : [ "rustem_arzymbetov" ],
-      "tags" : [ "Cloud" ],
-      "title" : "Intro to TensorFlow",
-      "videoId" : "e3cuSz1hEPs"
+      "complexity" : "Beginner",
+      "description" : "En esta charla hablaremos desde un punto de vista, como empezar en el mundo de machine learning, desde la definición del problema, diseñar una solución, que librerías o framework usar y que servicios brinda Google Cloud Platform de ML para la implementación en proyectos.",
+      "language" : "Spanish",
+      "speakers" : [ "juan_guillermo" ],
+      "tags" : [ "Cloud", "ML" ],
+      "title" : "Machine Learning from scratch with GCP"
     },
     "106" : {
       "complexity" : "Beginner",
-      "description" : "Fuelio. Success story (I'll write more info later)",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/adrian-kajda-fuelio-success-story",
-      "speakers" : [ "adrian_kajda" ],
-      "tags" : [ "Android" ],
-      "title" : "Fuelio. Success story",
-      "videoId" : "qK7ysoohsaM"
+      "description" : "¿Quieres conocer como darle un valor agregado a tu empresa?, ¿Harto de hacer alguna tarea manual repetitiva que podrías optimizar con simples comandos de voz? pues hablemos de como crear nuestros propios asistentes virtuales con la ayuda de las herramientas de Google.",
+      "language" : "Spanish",
+      "speakers" : [ "carlo_renzo" ],
+      "tags" : [ "Dialogflow", "Assistant" ],
+      "title" : "Crea un asistente que haga lo que quieras. Conociendo a Google Assistant y Dialogflow"
     },
     "107" : {
       "complexity" : "Beginner",
-      "description" : "There's been much discussion about Progressive Web Apps. They're still a relatively new model. In this talk, I'll summarise few options and techniques for getting started with your own Progressive Web App",
+      "description" : "En la actualidad nuestras aplicaciones pueden estar perdiendo miles de dólares en un abrir y cerrar de ojos, esto porque no sabemos el impacto puedan generar sus estructuras en el mercado. Soy Marilenny Soriano, UX designer y te mostraré como crear una app que se mantenga contigo y tu público. 😊",
       "extend" : 2,
-      "language" : "English",
-      "speakers" : [ "gerard_sans" ],
-      "tags" : [ "Web" ],
-      "title" : "Introduction to Progressive Web Apps in Angular 2"
+      "language" : "Spanish",
+      "speakers" : [ "marilenny_soriano" ],
+      "tags" : [ "UX" ],
+      "title" : "UX como herramienta de ganancia"
     },
     "108" : {
       "complexity" : "Intermediate",
-      "description" : "Angular 2 introduces a new Data Architecture based on Reactive Programming using RxJS 5. We are really excited to see the new approach using Observable sequences aka Observables. We will cover a basic introduction of Angular 2 followed by RxJS 5 and the new HTTP API covering some basic use cases.",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/gerard-sans-new-data-architecture-in-angular-2",
-      "speakers" : [ "gerard_sans" ],
-      "tags" : [ "Web" ],
-      "title" : "New Data Architecture in Angular 2",
-      "videoId" : "pgmLkwD-mqM"
+      "description" : "El análisis predictivo de big data siempre ha sido una estrategia clave para que las empresas tengan una ventaja competitiva y alcancen sus objetivos. Citaremos las herramientas necesarias para procesar grandes cantidades de datos.",
+      "language" : "Spanish",
+      "speakers" : [ "jose_aquino" ],
+      "tags" : [ "Big Data" ],
+      "title" : "Nuevas tendencias del Big Data en las empresas"
     },
     "109" : {
-      "complexity" : "Beginner",
-      "description" : "TBD",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/jozef-vodicka-how-much-money-firebase-can-save-you",
-      "speakers" : [ "jozef_vodicka" ],
-      "tags" : [ "Cloud" ],
-      "title" : "How much money Firebase can save you"
+      "complexity" : "Intermediate",
+      "description" : "Get to the Next Level in programming, learn how to handle heavy loads and the maximum advantage of your resources.",
+      "language" : "Spanish",
+      "speakers" : [ "eduardo_diaz" ],
+      "tags" : [ "Programming" ],
+      "title" : "Serious Go"
     },
     "110" : {
       "complexity" : "Intermediate",
-      "description" : "There's a lot of hype around MVP pattern in the Android world. Now it's time for concretes. During his presentation Mateusz will tell you how IG divided responsibilities between pattern's different components, how they tied Presenters' and Views' lifecycles and what they did to make it all testable. If you'd love to make your Fragments' and Activities' code simpler and increase your coverage, but you're confused how to glue it all together - don't miss Mateusz's talk.",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/mateusz-herych-the-ultimate-guide-to-mvp-pattern-on-android",
-      "speakers" : [ "mateusz_herych" ],
-      "tags" : [ "Android" ],
-      "title" : "The ultimate guide to MVP pattern on Android"
+      "description" : "Performance is the key to make your application faster, but is a long way to mastered this discipline. You must know the platform, you must redefine the application’s architecture and most important you must know how to measure it. Discover the way to do it and upgrade your apps to the next level",
+      "language" : "Spanish",
+      "speakers" : [ "joel_gomez" ],
+      "tags" : [ "Web" ],
+      "title" : "Measuring Web Performance to become a Hokage"
     },
     "111" : {
       "complexity" : "Intermediate",
-      "description" : "It's beauty, it's handy, it's fast, it's easy - all about Dagger 2",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/kseniia-shumelchyk-building-modular-architecture-apps-with-dagger-2",
-      "speakers" : [ "david_mayboroda" ],
-      "tags" : [ "Android" ],
-      "title" : "Building modular architecture apps with Dagger 2"
+      "description" : "La infraestructura de pruebas es esencial para la automatizacion, pero los proveedores de estas soluciones suelen ser muy caros, mas para compañias con el presupuesto ajustado. Como utilizando un stack open source podemos construir una infraestructura para nivelar costos de infraestructura?",
+      "language" : "Spanish",
+      "speakers" : [ "ivan_rodriguez" ],
+      "tags" : [ "Cloud", "Web" ],
+      "title" : "Creando una infraestructura de pruebas Cross-Browser y Cross-Platform en la nube"
     },
     "112" : {
       "complexity" : "Intermediate",
-      "description" : "Last year brought a lot of new capabilities to browsers, fundamentally changing the way we will build web apps in 2016. 60FPS, push messages, offline support and background sync became a reality marking the birth of Progressive Web Apps.",
+      "description" : "Do you marvel at the idea of production-grade Deep Learning that can scale infinitely in nearly constant time? Using an NLP application as an example, you will learn how to design, build and deploy deep learning systems using serverless computing (Function As A Service). PS: Talk contains code!",
       "language" : "English",
-      "speakers" : [ "konrad_dzwinel" ],
-      "tags" : [ "Web" ],
-      "title" : "Building web apps in 2016"
+      "speakers" : [ "alizish_khatri" ],
+      "tags" : [ "Cloud", "ML" ],
+      "title" : "Serverless adventures in the world of Deep Learning"
     },
     "113" : {
-      "complexity" : "Intermediate",
-      "description" : "Microservices is coming with a certain workload and constraints. Let's try to see how Google Cloud Platform and App Engine can help the overall microservices implementation.",
+      "complexity" : "Beginner",
+      "description" : "TensorFlow es una herramienta de Google que nos permite realizar proyectos de inteligencia artificial, como también para empezar a aprender sobre este mundo genial. En esta charla, conversaremos de los conceptos básicos y algunos consejos que se necesitan para sumergirse en este mundo increíble.",
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/jean-baptiste-clion-microservices-in-google-app-engine",
-      "speakers" : [ "jean-baptiste_clion" ],
-      "tags" : [ "Cloud" ],
-      "title" : "Microservices in Google App Engine"
+      "speakers" : [ "lesly_zerna" ],
+      "tags" : [ "AI", "ML" ],
+      "title" : "Aprender Inteligencia Artificial con TensorFlow"
     },
     "114" : {
-      "complexity" : "Intermediate",
-      "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
-      "language" : "English",
-      "speakers" : [ 12 ],
-      "tags" : [ "Android" ],
-      "title" : "I’ve been doing some syncing…"
+      "complexity" : "Beginner",
+      "description" : "Estaremos dando a conocer la importancia de entender buenas formas de diseño de soluciones de Hardware y Software para que las empresas puedan responder ágilmente y con precisión según los datos generados en los procesos.",
+      "language" : "Spanish",
+      "speakers" : [ "maximo_gomez" ],
+      "tags" : [ "Web" ],
+      "title" : "La arquitectura de soluciones y las decisiones basadas en datos"
     },
     "115" : {
-      "complexity" : "Beginner",
-      "description" : "Upcoming Android N release will bring some interesting changes to both Android run-time and toolchain. Let's talk about JIT, AOT, hybrid JIT/AOT, Jack, Jill and other acronyms and codenames ;-) In this presentation we'll see how many awesome tricks are needed to make our apps start fast and run smoothly on modern Android devices. Hopefully we'll also answer the most important question -- what's next for Android after Java.",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/aleksander-piotrowski-android-tool-chain-and-run-time-improvements-in-n",
-      "speakers" : [ "paul_lammertsma" ],
-      "tags" : [ "Android" ],
-      "title" : "Android tool-chain and run-time improvements in N",
-      "videoId" : "WqULb6bdwwg"
+      "complexity" : "Intermediate",
+      "description" : "Websockets seems to be the flag bearers of the realtime world. But what is real-time and what are WebSockets? Although these are pretty familiar terms in developer circles, what they actually do and what happens under-the-hood is something not known to a lot of developers.",
+      "language" : "Spanish",
+      "speakers" : [ "jayesh_katta" ],
+      "tags" : [ "Web" ],
+      "title" : "Building the NextGen Realtime"
     },
     "116" : {
       "complexity" : "Beginner",
-      "description" : "One of my favourite things about the web are ASCII smileys. They're sweet, fun and simply make the web a better place. How could anyone not like them ¯(ツ)/¯?\n\nThis talk is an overdose of smileys, because they're the perfect excuse to get started with Polymer. Polymer is a library built on top of the Web Components standards that helps developers create reusable components for the modern web. And since I know that everybody has been wondering how one could take over the world by creating a suite of Polymer animated emoticon components, we're going to do exactly that.",
-      "language" : "English",
-      "presentation" : "http://carmenpopoviciu.github.io/on-polymer-and-smileys/",
-      "speakers" : [ "aleksander_piotrowski" ],
-      "tags" : [ "Web" ],
-      "title" : "On Polymer and smileys... or Polysmileys"
+      "description" : "In this workshop we’ll build a serveless React web app using firebase as BaaS. We’ll learn about Firebase capabilities and how to implement it on a React project.",
+      "language" : "Spanish",
+      "speakers" : [ "natacha_rosa" ],
+      "tags" : [ "Web", "Firebase" ],
+      "title" : "Building a Serveless Web App with React and Firebase"
     },
     "117" : {
       "complexity" : "Beginner",
-      "description" : "Data is becoming one of the main decision-makers in an organisation. The more data we have the more challenges we face every day. Every decision we make will have long-term implications. In the talk we will go through different approaches to the data pipelines: from a simple in-house built, with comparison to open source solutions based on Apache stack(Apache Kafka, Apache Samza, Spark) and finally hosted auto-scaling solutions based Amazon(S3, Kinesis, Lambda, EMR) or Google(Pub/Sub, Dataflow, BigQuery). The talk covers the main aspects of data collecting processes altogether with further implications for data processing, highlighting appropriate solutions and architectures for the particular use-cases. ",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/sergii-khomenko-building-data-pipelines-from-simple-to-more-advanced-hands-on-experience",
-      "speakers" : [ "carmen_popovicu" ],
+      "description" : "Flutter es una de las tecnologias de mayor crecimiento y hype desde su lanzamiento, muchos gozan de los beneficios que trae Flutter al dia a dia del desarrollo de movil. - ¿Que es Flutter? - Como funciona - Quienes utilizan flutter - Como nos ayuda a desarrollar mas rapido. Responder dudas y mas.",
+      "language" : "Spanish",
+      "speakers" : [ "pablo_reinoso" ],
       "tags" : [ "Cloud" ],
-      "title" : "Building data pipelines: from simple to more advanced - hands-on experience"
+      "title" : "Lo increible de Flutter"
     },
     "118" : {
-      "complexity" : "Intermediate",
-      "description" : "TBD",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/dmytro-danylyk-kotlin-plus-android",
-      "speakers" : [ "sergii_khomenko" ],
-      "tags" : [ "Android" ],
-      "title" : "Kotlin + Android"
+      "complexity" : "Beginner",
+      "description" : "Let’s talk about what is it?, and how you can start with Google Assistant to reach the next billion users with your app / project.",
+      "language" : "Spanish",
+      "speakers" : [ "diego_degranda" ],
+      "tags" : [ "Assistant" ],
+      "title" : "Let's talk about Assistant, how to reach the next billion users."
     },
     "119" : {
       "complexity" : "Beginner",
-      "description" : "Writing Android apps is usually fun because you are actually building something. But what about writing tests? Boring stuff. Errr, UI tests? I am a developer!\n\nIn this talk we will take a look at options for UI tests on Android, why you should write them and how they help you with your app development workflow. No more untested apps!",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/jana-moudra-hands-on-with-ui-testing-for-android-developers",
-      "speakers" : [ "dmytro_danylyk" ],
-      "tags" : [ "Android" ],
-      "title" : "Hands-on with UI testing for Android developers"
+      "description" : "Software Dev and IT Ops are plenty of tools but it’s people (with soul and dreams) who use these tools. I’ll make a journey, through stories and suggestions to achieve better software and to facilite adoption of practices like DevOps, all this beyond clouds, programming languages or tech stacks.",
+      "language" : "Spanish",
+      "speakers" : [ "tono_guzman" ],
+      "tags" : [ "Cloud", "Open Source" ],
+      "title" : "People over IT. A Dev and Ops Story."
     },
     "120" : {
       "complexity" : "Beginner",
-      "description" : "\"Remember back when AJAX completely changed what was possible in the desktop web? Progressive web apps are that same fundamental shift for the mobile web.\" said Rahul Row-Chowdhury (Google’s product lead for chrome and the web platform) on stage at Google I/O 2016. - Progressive web apps use service workers, app shell, push notifications, RAIL and other capabilities to deliver an app-like user experience.",
-      "shortDescription": "Progressive web apps are are fundamental shift for the mobile web, learn what they are and how they are made. Click to see more...",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/jakub-skvara-progressive-web-apps-prepare-your-web-for-2017",
-      "speakers" : [ "jana_moudra" ],
-      "tags" : [ "Web" ],
-      "title" : "Progressive web apps - prepare your web for 2017"
+      "description" : "We will teach how to use and deploy Kubernetes with a happyli Django application which is fun but also functional. We also will be teaching about docker-compose, minikube, kompose and GKE",
+      "language" : "Spanish",
+      "speakers" : [ "lowell" ],
+      "tags" : [ "Cloud", "Open Source" ],
+      "title" : "Django on Google Kubernetes Engine"
     },
     "121" : {
       "complexity" : "Intermediate",
-      "description" : "Using service workers and other modern progressive web apps capabilities we can update our web applications to be offline-fires. In this session we'll show how to easily convert your applications be usable without the internet connection.",
-      "language" : "English",
-      "speakers" : [ "jana_moudra" ],
-      "tags" : [ "Web" ],
-      "title" : "Offline-first progressive web apps"
+      "description" : "Con esta charla deseo lograr crear conciencia en la audiencia de la importancia del UX en sus procesos de desarrollo o creación de productos o servicios. Ya que esto les permitirá obtener excelentes resultados y también de lo sencillo y efectivo que es hacerlo.",
+      "language" : "Spanish",
+      "speakers" : [ "kaury_gil" ],
+      "tags" : [ "UX" ],
+      "title" : "El UX que tu negocio o proyecto necesita"
     },
     "122" : {
       "complexity" : "Intermediate",
-      "description" : "I would like to talk about architecture of our Settle Up app. It's all based on new Firebase announced on I/O with the help of modern frameworks like Rx, Kotlin and MVP.",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/david-vavra-firebase-plus-kotlin-plus-rxjava-plus-mvp-practical-tips",
-      "speakers" : [ "jakub_škvára" ],
-      "tags" : [ "Android" ],
-      "title" : "Firebase + Kotlin + RxJava + MVP: Practical Tips",
-      "videoId" : "b9NgjqM6dvk"
+      "description" : "Data communication is probably the most important activity in a software application and GraphQL is an alternative to conventional web services that puts the client in control of the data it receives, saving network bandwidth and time due to reduced use of requests to the server.",
+      "language" : "Spanish",
+      "speakers" : [ "john_troncoso" ],
+      "tags" : [ "Web" ],
+      "title" : "Building Web Api's with GraphQL"
     },
     "123" : {
       "complexity" : "Beginner",
-      "description" : "TBD",
-      "language" : "English",
-      "speakers" : [ "david_vávra" ],
-      "tags" : [ "Web" ],
-      "title" : "TBD"
+      "description" : "Desarrollar un sistema que pueda soportar los constantes cambios del negocio a través de los años requiere de una arquitectura capaz de evolucionar para adaptarse a los nuevos cambios tecnológicos y del negocio. Cómo podemos diseñar una arquitectura para soportar sistemas en constantes cambios?",
+      "language" : "Spanish",
+      "speakers" : [ "edgar_garcia" ],
+      "tags" : [ "Cloud", "Architecture" ],
+      "title" : "Evolutionary Architecture"
     },
     "124" : {
       "complexity" : "Intermediate",
-      "description" : "You are tired of building every patch for your QA ? Still deploying to google play manually ? You still think that build server is something that you don't need ? Than I will try to show you how you can make life of your team easier with CI.",
+      "description" : "According to a recent survey by Github, only 4% of open source participants & ideators are women and/or non-binary. This disconcerting disparity can & should be eliminated. This talk opens the open source world beyond the perspective of coding & encourages fellow female to dive into FOSS !",
       "language" : "English",
-      "speakers" : [ "valentyn_shybanov" ],
-      "tags" : [ "Android" ],
-      "title" : "Continues Integration in Android",
-      "videoId" : "MmGDQkgknfY"
+      "speakers" : [ "jigyasa_grover" ],
+      "tags" : [ "Open Source" ],
+      "title" : "Opening Doors to Open Source"
     },
     "125" : {
       "complexity" : "Intermediate",
-      "description" : "TBD",
-      "language" : "English",
-      "speakers" : [ "sergiy_mokienko" ],
-      "tags" : [ "Cloud" ],
-      "title" : "Kubernetes in a real world"
+      "description" : "Día a día en nuestras aplicaciones estamos interactuando con datos, procesos, tareas, etc, cada vez es más común que debamos crear microservicios y exponerlos por medio de APIs, En esta sesión aprenderemos la manera como crear y mantener nuestras APIs tenendo en cuenta el estandar OpenAPI",
+      "language" : "Spanish",
+      "speakers" : [ "adriana_moya" ],
+      "tags" : [ "Cloud", "Open Source" ],
+      "title" : "Diseñando mejores APIs con OpenAPI y Google Cloud Endpoints"
     },
     "126" : {
-      "complexity" : "Intermediate",
-      "description" : "Imagine the world where you can get any application, look into its code (even if it is not open sourced) and modify any conditional operator in any way you like. Welcome, you are in the Android applications world! Let's discover how anyone can decompile your app and, for example, hack your 'if' operators. For the beginning, we will play a role of a script kiddie and try to hack some simple app. After this, we will pretend security-conscious Android developers and try to think how we can protect ourselves.",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/michael-pustovit-android-hacking-for-dummies-if-operator-demolytion",
-      "speakers" : [ "ihor_dvoretskyi" ],
-      "tags" : [ "Android" ],
-      "title" : "Android hacking for dummies: ‘if’ operator demolytion",
-      "videoId" : "We04nyIIsA0"
+      "description" : "Gestionar trabajadores del conocimiento (Knowledge workers), en especial los ingenieros de software y carreras afines es una tarea que no se aprende en los libros de administración o RRHH. Es necesario vivirlo, fallar y aprender. En esta charla veras técnicas concretas para mejorar la gestion de RH",
+      "speakers" : [ "lorenzo_solano" ],
+      "tags" : [ "Leadership" ],
+      "title" : "Human Talent Management in Software Projects"
     },
     "127" : {
       "complexity" : "Intermediate",
-      "description" : "If you have any experience with Android Media Player, you definitely know how hard it is to prepare it and do not lose your mind. ExoPlayer - is an alternative, which can help you deal with media with much less pain. So lets discuss if it really a \"silver bullet\" or yet another State Machine hell.",
-      "language" : "Ukrainian",
-      "presentation" : "https://speakerdeck.com/gdglviv/anton-minashkin-exoplayer-media-playback-without-pain-almost-dot-dot-dot",
-      "speakers" : [ "michael_pustovit" ],
-      "tags" : [ "Android" ],
-      "title" : "ExoPlayer: Media playback without pain (almost...)"
+      "description" : "Esta charla trata sobre como podemos cambiar nuestro mindset de imperativo a reactivo. El beneficio de esto es que nos centramos en el “¿Qué queremos?” y no en “¿Cómo?”. La programación reactiva esta orientada al manejo de streams de datos asíncronos y a la propagación del cambio en la aplicación.",
+      "language" : "Spanish",
+      "speakers" : [ "raymond" ],
+      "tags" : [ "Web", "Angular" ],
+      "title" : "Thinking Reactively with RxJS"
     },
     "128" : {
       "complexity" : "Beginner",
-      "description" : "Google announced Android Wear 2.0 become available this Fall. This major update brings some revolutionary changes in platform, that should change our approaches in developing wearable apps, including freedom of BLE tethering, system support for complications and activity recognition by GoogleFit, developed mainly for Android Wear 2.0. We will talk deeper about these new features and look at some ways to implement them in the code.",
+      "description" : "Running bytecode inside the web browser with almost native application speed? That’s possible with WebAssembly! After a few small examples, aiming to show the compiler toolchain, Martina will deep dive into the question: How to pimp my slow JavaScript application with native bytecode?",
       "language" : "English",
-      "speakers" : [ "anton__minashkin" ],
-      "tags" : [ "Android" ],
-      "title" : "Android Wear 2.0: Great Changes Upcoming this Fall"
+      "speakers" : [ "matrina" ],
+      "tags" : [ "Web", "JS" ],
+      "title" : "Boost your JavaScript Performance with WebAssembly"
     },
     "129" : {
       "complexity" : "Intermediate",
-      "description" : "Accessibility is a very important step to make sure that your app reaches everyone in an easy and fun way to use. \nGood accessibility support means much more than just making sure the app supports screen readers, different fonts sizes and good contrast ratios. It is a learning process, and one in which we ourselves still have much to learn and explore. ",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/resul-caner-yildirim-accessibility-on-android",
-      "speakers" : [ "constantine_mars" ],
-      "tags" : [ "Android" ],
-      "title" : "Accessibility on Android"
+      "description" : "What would you do if you found a memory leak so big most of the data of your requests are leaking? What if your team is distributed? What if no one on the team shared a timezone? This talk presents the usual techniques to find a memleak and a few unusual ones when dealing with a significant leak.",
+      "language" : "Spanish",
+      "speakers" : [ "sergio_arbeo" ],
+      "tags" : [ "Web", "JS" ],
+      "title" : "FastFlood: a story of a massive memory leak in server land"
     },
     "130" : {
-      "complexity" : "Intermediate",
-      "description" : "Wearable devices are one of the most popular things nowadays. Specially, after the Apple Watch, we finally get the whole picture of the entire list of products and their features. Now, we can talk about how we can design a user experience for this type of devices.\nEvery platform has it's own design principles and approaches. But, in the core, they all need to follow same core rules. So, how we combine this core requirements with Google's Material Design and use them on an Android Wear device? Let's learn!",
-      "language" : "English",
-      "speakers" : [ "constantine_mars" ],
-      "tags" : [ "Android" ],
-      "title" : "Designing an Android Wear Application"
+      "description" : "Es momento de preguntarnos si las aplicaciones que estamos desarrollando hoy seguirá siendo útil mañana y ¿Qué esperan los usuarios de mi aplicación?. En esta conferencia quiero contar que están haciendo los mejores de la industria para mejorar la experiencia del usuario.",
+      "language" : "Spanish",
+      "speakers" : [ "alice_perez" ],
+      "tags" : [ "UX" ],
+      "title" : "The Future of Applications Design"
     },
     "131" : {
+      "description" : "He presenciado a primera mano la capacidad que tienen las niñas para comprender y resolver problemas relacionados con la programación, un campo tradicionalmente dominado por hombres. Educarlas en los campos STEM es clave para otorgarles las habilidades necesarias para resolver problemas mundiales.",
+      "language" : "Spanish",
+      "speakers" : [ "alexandra_rodriguez" ],
+      "tags" : [ "Education", "WTM" ],
+      "title" : "Programación como herramienta para el empoderamiento de las niñas"
+    },
+    "141" : {
       "complexity" : "Intermediate",
-      "description" : "In this talk, I will reveal you all the deepest secrets of using MVVM architecture in Android. \nWe will discuss on how to organise your application, views, models, how to retrieve data from the model requested from the view via data binding. \nLightweight Activities and Fragments, is it even possible? \n\nYes, and I will show you how to achieve this with MVVM and DataBinding!",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/roman-herasymenko-deal-with-it-android-databinding-explained",
-      "speakers" : [ "resul_caner__yildirim" ],
-      "tags" : [ "Android" ],
-      "title" : "Deal with it: Android DataBinding explained"
+      "description" : "The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code. Therefore, making it easy to read makes it easier to write, so in the talk we’re going to see why code readability matters.",
+      "language" : "Spanish",
+      "speakers" : [ "danny_feliz" ],
+      "tags" : [ "Programmin" ],
+      "title" : "The Art of Readable Code - Why Code readability matters"
     },
     "132" : {
       "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
@@ -577,7 +549,7 @@
       "icon" : "opening",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
       "language" : "English",
-      "title" : "GDG DevFest Ukraine 2016 Opening"
+      "title" : "DevFest Santo Domingo 2019 Opening"
     },
     "137" : {
       "description" : "Afterparty is a great time to have some fun and meet new people",
@@ -591,7 +563,7 @@
       "title" : "Conference closing and contest winners announcements"
     },
     "139" : {
-      "description" : "",
+      "description" : "TBD",
       "language" : "English",
       "title" : "Keynote"
     },
@@ -612,7 +584,7 @@
       "company" : "Mentor Her",
       "companyLogo" : "/images/logos/google.svg",
       "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Cochabamba, Bolivia",
+      "country" : "Sucre, Bolivia",
       "featured" : true,
       "name" : "Lesly Zerna",
       "photo" : "/images/people/leslyzerna.jpg",
@@ -684,7 +656,7 @@
     },
     "juan_guillermo" : {
       "badges" : [ {
-        "description" : "Firebase & GCP Google Developer Expert",
+        "description" : "Firebase & Google Cloud Platform Google Developer Expert",
         "link" : "https://developers.google.com/experts/people/dmytro-danylyk",
         "name" : "gde"
       }, {
@@ -692,7 +664,7 @@
         "link" : "https://developers.google.com/groups/",
         "name" : "gdg"
       } ],
-      "bio" : "Juan Guillermo is the co-organizer of several local events, such as GDG Cali, startup weekend Colombia and free software. He has been involved in the tech community for the past 6 years. He attends more than 10 events per year as a guest speaker throughout Latin America, where he speaks about mobile, cloud, firebase, entrepreneurship and innovation. In 2016, he co-founded the first hacker school in Cali (DevHack), where he teaches programming different technologies such as front-end, mobile and back-end. He was the CTO and co-founder of lead IS consulting, where he has developed and deployed enterprise software and mobile applications on Cloud Computing Platforms. He is an educator at DevHack and several Universities at Cali, Colombia. Juan is GDE (Google Developer Expert) in Firebase & GCP, holds a BS in System Engineering and a MS in Software Engineering at Universidad San Buenaventura Cali.",
+      "bio" : "Juan Guillermo is the co-organizer of several local events, such as GDG Cali, startup weekend Colombia and free software. He has been involved in the tech community for the past 6 years. He attends more than 10 events per year as a guest speaker throughout Latin America, where he speaks about mobile, cloud, firebase, entrepreneurship and innovation. In 2016, he co-founded the first hacker school in Cali (DevHack), where he teaches programming different technologies such as front-end, mobile and back-end. He was the CTO and co-founder of lead IS consulting, where he has developed and deployed enterprise software and mobile applications on Cloud Computing Platforms. He is an educator at DevHack and several Universities at Cali, Colombia. Juan is GDE (Google Developer Expert) in Firebase & Google Cloud Platform, holds a BS in System Engineering and a MS in Software Engineering at Universidad San Buenaventura Cali.",
       "company" : "DevHack",
       "companyLogo" : "/images/logos/google.svg",
       "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
@@ -712,11 +684,11 @@
         "name" : "LinkedIn"
       } ],
       "order" : 3,
-      "title" : "Google Developer Expert in Firebase & GCP"
+      "title" : "Google Developer Expert in Firebase & Google Cloud Platform"
     },
     "tono_guzman" : {
       "badges" : [ {
-        "description" : "Firebase & GCP Google Developer Expert",
+        "description" : "Google Cloud Platform Google Developer Expert",
         "link" : "https://developers.google.com/experts/people/dmytro-danylyk",
         "name" : "gde"
       }],
@@ -736,7 +708,7 @@
         "name" : "Twitter"
         } ],
       "order" : 4,
-      "title" : "Google Developer Expert in GCP"
+      "title" : "Google Developer Expert in Google Cloud Platform"
     },            
     "joel_gomez" : {
       "badges" : [ {
@@ -793,7 +765,491 @@
           } ],
       "order" : 6,
       "title" : "Google Developer Expert en Assistant"
-    } 
+    },
+    "adriana_moya" : {
+      "badges" : [ {
+        "description" : "Google Developer Expert in Google Cloud Platform",
+        "link" : "https://developers.google.com/experts/people/dmytro-danylyk",
+        "name" : "gde"
+        }, {
+          "description" : "GDG Bogota",
+          "link" : "https://developers.google.com/groups/",
+          "name" : "gdg"
+        }],
+      "bio" : "Ingeniera de Sistemas, Especialista en Ingenieria de Software, Desarrolladora Python, Google Developer Expert en Google Cloud Platform, Embajadora Women Techmakers, Coorganizadora de GDG Bogotá y GDG Cloud Bogotá.",
+      "company" : "GDE",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "country" : "Bogotá, Colombia",
+      "featured" : true,
+      "name" : "Adriana Fernanda Moya",
+      "photo" : "/images/people/adriana_moya.png",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/speakers%2Fadriana_moya.png?alt=media&token=79cd6938-8ed5-427a-a01b-b8481a9374d3",
+      "shortBio" : "Ingeniera de Sistemas, Especialista en Ingenieria de Software, Desarrolladora Python, Google Developer Expert en Google Cloud Platform, Embajadora Women Techmakers, Coorganizadora de GDG Bogotá y GDG Cloud Bogotá.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "http://twitter.com/adriifermo",
+        "name" : "Twitter"
+        }, {
+          "icon" : "linkedin",
+          "link" : "https://www.linkedin.com/in/adrifermo/",
+          "name" : "LinkedIn"
+          } ],
+      "order" : 7,
+      "title" : "Google Developer Expert en Assistant"
+    },
+    "nicolas_frankel" : {
+      "bio" : "Developer Advocate with 15+ years experience consulting for many different customers, in a wide range of contexts (such as telecoms, banking, insurances, large retail and public sector). Usually working on Java/Java EE and Spring technologies, but with focused interests like Rich Internet Applications, Testing, CI/CD and DevOps. Currently working for Hazelcast. Also double as a teacher in universities and higher education schools, a trainer and triples as a book author.",
+      "company" : "Exoscale",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "country" : "Geneva, France",
+      "featured" : true,
+      "name" : "Nicolas Fränkel",
+      "photo" : "/images/people/nicolas_frankel.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/speakers%2Fnicolas_frankel.jpg?alt=media&token=b6be0325-e4b0-4dc2-b489-5be09b8b0241",
+      "shortBio" : "Ingeniero de Sistemas de la Universidad Señor de Sipán. Software Engineer en Avantica. Android Developer Google Assistant GDE Bike & Chocolate Lover.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "http://twitter.com/nicolas_frankel",
+        "name" : "Twitter"
+        }, {
+          "icon" : "website",
+          "link" : "https://blog.frankel.ch/",
+          "name" : "Website"
+          } ],
+      "order" : 8,
+      "title" : "Developer Advocate"
+    },
+    "crux_conception" : {
+      "bio" : "Crux resides in Fort Wayne, Indiana, and has over 20 years of Law Enforcement (LEO) and teaching experience. Crux is a Retired Homicide Detective/Criminal Profiler.",
+      "company" : "Detective",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "country" : "Indiana, USA",
+      "featured" : true,
+      "name" : "Crux Conception",
+      "photo" : "/images/people/crux_coception.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/speakers%2Fcrux_coception.jpg?alt=media&token=fd188872-8bf3-48a2-b540-e1adf92dbe1b",
+      "shortBio" : "Crux resides in Fort Wayne, Indiana, and has over 20 years of Law Enforcement (LEO) and teaching experience. Crux is a Retired Homicide Detective/Criminal Profiler.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "http://twitter.com/ConceptionCrux",
+        "name" : "Twitter"
+        }, {
+          "icon" : "linkedin",
+          "link" : "http://bit.ly/CruxConception_LinkedIn",
+          "name" : "LinkedIn"
+      }, {
+          "icon" : "website",
+          "link" : "https://cruxconception.wordpress.com/",
+          "name" : "Website"
+            } ],
+      "order" : 9,
+      "title" : "Detective"
+    },
+    "jayesh_katta" : {
+      "bio" : "Jayesh Katta Ramalingaiah is a professional Frontend developer, writes React code for a living and volunteers for Mozilla and PubNub to justify his existence. He loves to talk about modern Javascript and tries to use it to solve all of the realtime problems. He is an expert in developing web apps.",
+      "company" : "Tata Consultancy Services",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "country" : "Bangalore, India",
+      "featured" : false,
+      "name" : "Jayesh Katta Ramalingaiah",
+      "photo" : "/images/people/jayesh_katta.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/speakers%2Fjayesh_katta.jpg?alt=media&token=22c685cf-4daf-46c4-966d-6f4ea70cff11",
+      "shortBio" : "Jayesh Katta Ramalingaiah is a professional Frontend developer, writes React code for a living and volunteers for Mozilla and PubNub to justify his existence. He loves to talk about modern Javascript and tries to use it to solve all of the realtime problems. He is an expert in developing web apps.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "http://twitter.com/jayeshkattar",
+        "name" : "Twitter"
+        }, {
+          "icon" : "website",
+          "link" : "http://jayeshkattar.github.io/",
+          "name" : "Website"
+          } ],
+      "order" : 12,
+      "title" : "Frontend developer"
+    },
+    "pablo_reinoso" : {
+      "bio" : "Amante de la tecnología y con un vicio insaciable por aprender ademas de grandes ganas de enseñar y ayudar a muchas personas. Me encanta programar Aplicaciones Web y Aplicaciones Móviles son mi pasión. Soy programador desde aquel día en la escuela quería hacer mi propia aplicación, ese fue el principio de un viaje que no tiene fin, cada día aprendiendo, mejorando y aportando conocimiento.",
+      "company" : "Estudiante",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "country" : "La Vega, Dominican Republic",
+      "featured" : false,
+      "name" : "Pablo Reinoso",
+      "photo" : "/images/people/pablo_reinoso.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/speakers%2Fpablo_reinoso.JPG?alt=media&token=58de43cd-4233-4cb6-9850-159a9551413c",
+      "shortBio" : "Ingeniero de Sistemas de la Universidad Señor de Sipán. Software Engineer en Avantica. Android Developer Google Assistant GDE Bike & Chocolate Lover.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "http://twitter.com/pablo384",
+        "name" : "Twitter"
+        }, {
+          "icon" : "website",
+          "link" : "https://www.pablo384.com/",
+          "name" : "Website"
+          } ],
+      "order" : 13,
+      "title" : "Desarrollador Movíl"
+    },
+    "jigyasa_grover" : {
+      "bio" : "Red Hat Women in Open Source Academic Award Winner 2017, Google Summer of Code alumna and currently a Machine Learning Engineer at Twitter Inc., Jigyasa Grover is an ardent open source enthusiast along-with being a budding researcher having worked at San Diego Supercomputer Center, National Research Council of Canada and Institute of Research & Development France. She has also briefly worked on anomaly detection framework in the ads system at Facebook. A feminist by heart, she was involved as Director of Women Who Code and Lead of Google Women Techmakers for a handful of years to help bridge gender gap in technology. She has delivered keynotes and talks at Open Source 101, Red Hat Summit, University of California San Diego Guest Lecture Series, FOSSASIA OpenTech Summit Singapore, Society of Women Engineers Conference, WWC Regional Leadership Summit India, Grace Hopper Celebration of Women in Computing India, IEEE Women in Engineering International Leadership Summit & Women Techmakers Meet to name a few. In her quest to build a powerful bunch of girls and boys alike & believing in “we rise by lifting others” she mentors aspiring developers in the global programs like Google Summer of Code, Google Code- In, ‘Learn IT, Girl !’ & CodeHeat.",
+      "company" : "Twitter Inc",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "country" : "San Francisco, USA",
+      "featured" : true,
+      "name" : "Jigyasa Grover",
+      "photo" : "/images/people/jigyasa_grover.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/speakers%2Fjigyasa_grover.jpg?alt=media&token=48e53a26-dee6-4e0d-bebf-d6b4284751b7",
+      "shortBio" : "Red Hat Women in Open Source Academic Award Winner 2017, Google Summer of Code alumna and currently a Machine Learning Engineer at Twitter Inc.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "http://twitter.com/jigyasa_grover",
+        "name" : "Twitter"
+        }, {
+          "icon" : "website",
+          "link" : "https://jigyasagrover.wordpress.com/",
+          "name" : "Website"
+          } ],
+      "order" : 10,
+      "title" : "Machine Learning Engineer"
+    },
+  "carlos_daniel" : {
+    "badges" : [ {
+      "description" : "Google Developer Expert in Android",
+      "link" : "https://developers.google.com/experts/people/dmytro-danylyk",
+      "name" : "gde"
+      }],
+    "bio" : "GDE for Android & Android Developer @Webcat LLC",
+    "company" : "GDE",
+    "companyLogo" : "/images/logos/google.svg",
+    "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+    "country" : "Medellin, Colombia",
+    "featured" : true,
+    "name" : "Carlos Daniel",
+    "photo" : "/images/people/carlos_daniel.png",
+    "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/speakers%2Fcarlos_daniel.jpg?alt=media&token=ed3b5db9-ea32-4b61-829a-5a9300305e93",
+    "shortBio" : "GDE for Android & Android Developer @Webcat LLC",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/cdmunozi",
+      "name" : "Twitter"
+      }, {
+        "icon" : "web",
+        "link" : "https://proandroiddev.com/@cdmunoz",
+        "name" : "Web"
+        } ],
+    "order" : 11,
+    "title" : "GDE for Android & Android Developer"
+      },
+  "kaury_gil" : {
+      "bio" : "¡Hola! Soy Kaury Rosario Diseño y desarrollo experiencias digitales que te hacen la vida más fácil y productiva. Me defino como una mujer que siempre vive innovando, aprendido y compartiendo experiencias y vivencias con otros. Soy egresada de ITLA del tecnólogo en Multimedia. Tengo una especialidad en desarrollo de apps por la universidad APEC y un especialidad en Diseño de apps por Chavón santo Domingo.",
+      "company" : "MCTEKK",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "country" : "Santo Domingo, Dominican Republic",
+      "featured" : false,
+      "name" : "Kaury Rosario Gil",
+      "photo" : "/images/people/kaury_rosario.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/speakers%2Fkaury_rosario.jpg?alt=media&token=68b8e5e8-b01c-4951-9378-3c852513e549",
+      "shortBio" : "¡Hola! Soy Kaury Rosario Diseño y desarrollo experiencias digitales que te hacen la vida más fácil y productiva. Me defino como una mujer que siempre vive innovando, aprendido y compartiendo experiencias y vivencias con otros. Soy egresada de ITLA del tecnólogo en Multimedia.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "http://twitter.com/Kaury1405",
+        "name" : "Twitter"
+        }, {
+          "icon" : "linkedin",
+          "link" : "https://do.linkedin.com/in/kauryrosario",
+          "name" : "LinkedIn"
+          } ],
+      "order" : 13,
+      "title" : "UX Developer"
+    },
+    "eduardo_diaz" : {
+      "bio" : "Software Developer with a main focus on distributed systems, love doing the Sunday crossword, sudoku & playing chess.",
+      "company" : "Consultant",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "country" : "Santo Domingo, Dominican Republic",
+      "featured" : false,
+      "name" : "Eduardo Díaz Rodríguez",
+      "photo" : "/images/people/eduardo_diaz.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/speakers%2Feduardo_diaz.jpeg?alt=media&token=ab65126f-2752-4110-8282-6645a16040a2",
+      "shortBio" : "Software Developer with a main focus on distributed systems, love doing the Sunday crossword, sudoku & playing chess.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "http://twitter.com/edjroz",
+        "name" : "Twitter"
+          } ],
+      "order" : 12,
+      "title" : "Backend Developer"
+    },
+    "alizish_khatri" : {
+      "bio" : "Alizishaan’s professional passions revolve around two things : using technology to solve real-world problems and sharing solutions with the community. He is currently employed as a Machine Learning Engineer with Pivotus where he works on problems in the Natural Language Processing space. Over the summer of 2017, he designed and built an offensive content detection system for a Silicon Valley company. Past industry projects include a price-prediction system for cars and a status communication system that minimized false alerts. Outside of work, Alizishaan’s passions include mountaineering, skiing, travelling and photography.",
+      "company" : "Pivotus",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "country" : "San Francisco, USA",
+      "featured" : true,
+      "name" : "Alizishaan Khatri",
+      "photo" : "/images/people/alizishaan_khatri.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/speakers%2Falizishaan_khatri.jpg?alt=media&token=ab1e9c8b-35e9-4ff7-a2a3-be75b7b3f8bc",
+      "shortBio" : "Alizishaan’s professional passions revolve around two things : using technology to solve real-world problems and sharing solutions with the community. He is currently employed as a Machine Learning Engineer with Pivotus where he works on problems in the Natural Language Processing space.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "http://twitter.com/alyekhatri",
+        "name" : "Twitter"
+        }, {
+          "icon" : "linkedin ",
+          "link" : "https://www.linkedin.com/in/alizishaan-khatri-32a20637/",
+          "name" : "LinkedIn"
+          } ],
+      "order" : 14,
+      "title" : "Machine Learning Engineer"
+    },
+    "maximo_gomez" : {
+      "bio" : "Experto en Tecnologia Arquitecto de soluciones de IT. Conocido trainer y speaker universitario (Apec, Unphu, Unad, O & M) Graduado de la Universidad O & M Certificado en Diseño de Centros de Datos (by Apc Brasil) Con especialización en Sistemas de Información Geográfica (Small World - España) Ha participado en proyectos nacionales e internacionales con funciones varias. Conocido especialmente en el mundo de la Alta Disponibilidad y las bases de datos empresariales.",
+      "company" : "Consultant",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "country" : "Santo Domingo, Dominican Republic",
+      "featured" : false,
+      "name" : "Maximo Harol Gómez",
+      "photo" : "/images/people/harol_gomez.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/speakers%2Fharol_gomez.jpg?alt=media&token=5f9e7c24-ba4e-4191-8bd8-14949374f21c",
+      "shortBio" : "Conocido trainer y speaker universitario (Apec, Unphu, Unad, O & M) Graduado de la Universidad O & M Certificado en Diseño de Centros de Datos (by Apc Brasil) Con especialización en Sistemas de Información Geográfica (Small World - España) Ha participado en proyectos nacionales e internacionales con funciones varias. Conocido especialmente en el mundo de la Alta Disponibilidad y las bases de datos empresariales.",
+      "order" : 15,
+      "title" : "Arquitecto de Soluciones IT"
+    },
+    "jose_aquino" : {
+      "bio" : "Profesional de Sistemas y Tecnología de la información con más de 12 años de experiencia, Máster en Business Intelligence & Big Data, Emprendedor, Facilitador y Consultor Senior.",
+      "company" : "Consultant",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "country" : "Santo Domingo, Dominican Republic",
+      "featured" : false,
+      "name" : "José M. Aquino",
+      "photo" : "/images/people/j_aquino.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/speakers%2Fj_aquino.jpg?alt=media&token=420ccdd2-c7d5-422d-bd6b-3fb27ff83d53",
+      "shortBio" : "Profesional de Sistemas y Tecnología de la información con más de 12 años de experiencia, Máster en Business Intelligence & Big Data, Emprendedor, Facilitador y Consultor Senior.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "http://twitter.com/Josemaquino",
+        "name" : "Twitter"
+        }, {
+          "icon" : "website",
+          "link" : "http://www.jaquino.net/",
+          "name" : "Website"
+          } ],
+      "order" : 16,
+      "title" : "Data Scientist and IT Senior Consultant"
+    },
+    "ivan_rodriguez" : {
+      "bio" : "I’m a software tester with a strong focus (almost a hobby) for quality engineering and test automation development, with a professional background in companies in the financial sector, telecommunications, managed services and the car marketplace industry. A continuous learner by nature, I’m always searching for new and better ways to improve quality throughout the entire development process, as I believe quality is a cross-functional goal. Currently leading an awesome test team at InstaCarro.com, Brazil’s biggest online car marketplace, helping thousand of users sell and purchase vehicles in an instant.",
+      "company" : "InstaCarro.com",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "country" : "Santo Domingo, Dominican Republic",
+      "featured" : false,
+      "name" : "Ivan Rodriguez",
+      "photo" : "/images/people/ivan_rodriguez.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/speakers%2Fivan_rodriguez.png?alt=media&token=5cd82fea-2add-4ef8-b544-a9120dc88737",
+      "shortBio" : "I’m a software tester with a strong focus (almost a hobby) for quality engineering and test automation development, with a professional background in companies in the financial sector, telecommunications, managed services and the car marketplace industry.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "http://twitter.com/ivanrodjr",
+        "name" : "Twitter"
+        }, {
+          "icon" : "linkedin",
+          "link" : "https://www.linkedin.com/in/ivanrodriguezjr",
+          "name" : "LinkedIn"
+          } ],
+      "order" : 17,
+      "title" : "Software Tester "
+    },
+    "marilenny_soriano" : {
+      "bio" : "Soy Marilenny Soriano, diseñadora de experiencia de usuario y me especializo en el User Research y la Arquitectura de información. Incursioné en el mundo del diseño tras debutar como web developer en la Universidad Autónoma de Santo Domingo logrando así, el reconocimiento del decanato de ciencias en dicha institución y más tarde pudiendo conseguir trabajo como full stack para una empresa norte americana. Trabajando allí, por un año, descubrí que el diseño era mi pasión por lo que decidí dejar la programación atrás y centrarme en saber qué quieren las personas y cómo lo quieren para volver sus proyectos realidad de la manera más creativa posible. Actualmente me encuentro trabajando en distintos proyectos como GCoding Academy: academia online especializada en Flutter así como también impartiendo el primer curso presencial de UX/UI en RD auspiciado por la UASD y trabajo en conjunto con INTEC. Sumado a esto, trabajo en mi marca personal Brondka la cual para septiembre estará corriendo y funcionando. Me describo como una persona segura, hyper multitasking, comprometida con lo que hago y amante a instruir; me gusta que las personas conozcan lo que pueden llegar a lograr y ofrecerles la herramientas para ello.",
+      "company" : "GCoding Academy",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "country" : "Santo Domingo, Dominican Republic",
+      "featured" : false,
+      "name" : "Marilenny Soriano",
+      "photo" : "/images/people/marilenny.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/speakers%2Fmarilenny.jpg?alt=media&token=a19ef2d2-465c-4ec4-a694-13ad8eceadf2",
+      "shortBio" : "Soy Marilenny Soriano, diseñadora de experiencia de usuario y me especializo en el User Research y la Arquitectura de información. Incursioné en el mundo del diseño tras debutar como web developer en la Universidad Autónoma de Santo Domingo logrando así, el reconocimiento del decanato de ciencias en dicha institución y más tarde pudiendo conseguir trabajo como full stack para una empresa norte americana.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "http://twitter.com/uxsoria",
+        "name" : "Twitter"
+        }, {
+          "icon" : "website",
+          "link" : "https://www.instagram.com/brondka/",
+          "name" : "Website"
+            } ],
+      "order" : 18,
+      "title" : "UX Designer"
+    },
+    "edgar_garcia" : {
+      "bio" : "Edgar is a software engineer with more than 15 years of experience developing applications covering since the requirements gathering until deployment. He was a Software Teacher @ITLA for 5 years teaching Java Programming, Analysis and Design and Software Architecture, teaching and sharing knowledge is his passion. Actually Edgar works as a Solution Architect developing products using Cloud and On-Premise technologies.",
+      "company" : "Unipago",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "country" : "Santo Domingo, Dominican Republic",
+      "featured" : false,
+      "name" : "Edgar Garcia",
+      "photo" : "/images/people/edgar_garcia.jpeg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/speakers%2Fedgar_garcia.jpeg?alt=media&token=8475f793-c704-49b4-abb0-7da5cb1d0ffc",
+      "shortBio" : "Edgar is a software engineer with more than 15 years of experience developing applications covering since the requirements gathering until deployment. He was a Software Teacher @ITLA for 5 years teaching Java Programming, Analysis and Design and Software Architecture, teaching and sharing knowledge is his passion.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "http://twitter.com/edgaragr",
+        "name" : "Twitter"
+        }, {
+          "icon" : "linkedin",
+          "link" : "https://www.linkedin.com/in/edgaragr/",
+          "name" : "Linkedin"
+            } ],
+      "order" : 19,
+      "title" : "Solution Architect"
+    },
+    "lorenzo_solano" : {
+      "bio" : "Lorenzo Solano is an enterprise application developer with strong experience in Java EE and the Java Platform. He also works with .NET framework, languages and technologies. Lorenzo likes to describe himself as a husband, outdoors lover and cross-fit practitioner. In 2011 he was, formally, introduced to the Agile and Scrum word with his first certification Certified Scrum Developer (CSD). After that date he began a journey of self-education, discussions with peers and other agile practitioners. In order to share, validate and increase his knowledge about agile practices he organized a series of Coding Dojos held at his city (Santo Domingo, Dominican Republic), that series was called “Kodisto Dojo” and ran from Oct 2012 (“Kodisto Dojo 01”) to Sep 2013 (“Kodisto Dojo 11”). Meanwhile in his job he started to implement some of the XP practices like Continuous Integration (CI), Test Driven Development (TDD), Coding Standards among others. He also introduced a Kanban board to manage some projects tasks.",
+      "company" : "NovosIT",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "country" : "Santo Domingo, Dominican Republic",
+      "featured" : false,
+      "name" : "Lorenzo Solano Martinez",
+      "photo" : "/images/people/lorenzo_solano.png",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/speakers%2Florenzo_solano.png?alt=media&token=13e1021c-5492-4161-9382-dbc277ddf290",
+      "shortBio" : "Lorenzo Solano is an enterprise application developer with strong experience in Java EE and the Java Platform. He also works with .NET framework, languages and technologies. Lorenzo likes to describe himself as a husband, outdoors lover and cross-fit practitioner.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "http://twitter.com/lorenzo_solano",
+        "name" : "Twitter"
+        }, {
+          "icon" : "website",
+          "link" : "https://tales-of-agile-adoption.blogspot.com/",
+          "name" : "Website"
+            } ],
+      "order" : 20,
+      "title" : "Enterprise Application Developer"
+    },
+    "alice_perez" : {
+      "bio" : "Ingeniera en sistema y especialista en diseño de experiencia de usuario (UX), apasionada del marketing digital y un largo camino trabajando en desarrollo de productos digitales. Partner en October studio, speaker en los eventos de tecnología más importantes del caribe y latinoamerica, co-fundadora de la comunidad más grande de mujeres en tecnología del país, Mujeres TIC RD y fundadora de code4ladies, un proyecto para enseñar a programar a niñas y mujeres de zonas vulnerables en República Dominicana.",
+      "company" : "October studio",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "country" : "Santo Domingo, Dominican Republic",
+      "featured" : false,
+      "name" : "Alice Perez",
+      "photo" : "/images/people/alice_perez.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/speakers%2Falice_perez.jpg?alt=media&token=3013ee65-9362-4e0d-988a-2c76440dac85",
+      "shortBio" : "Ingeniera en sistema y especialista en diseño de experiencia de usuario (UX), apasionada del marketing digital y un largo camino trabajando en desarrollo de productos digitales. Partner en October studio, speaker en los eventos de tecnología más importantes del caribe y latinoamerica, co-fundadora de la comunidad más grande de mujeres en tecnología del país, Mujeres TIC RD y fundadora de code4ladies, un proyecto para enseñar a programar a niñas y mujeres de zonas vulnerables en República Dominicana.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "http://twitter.com/AlicePerezVilla",
+        "name" : "Twitter"
+        }, {
+          "icon" : "website",
+          "link" : "https://aliceperez.com.do/",
+          "name" : "Website"
+            } ],
+      "order" : 21,
+      "title" : "UX Designer"
+    },
+    "alexandra_rodriguez" : {
+      "bio" : "Me llamo Alexandra Rodríguez Dalmau, tengo 17 años y quiero ser ingeniera. Cuando me uní a FIRST Lego League en séptimo grado, tuve mi primer encuentro inmersivo con los campos de Ciencia, Tecnología, Ingeniería y Matemáticas (STEM). Aunque estaba emocionada por aprender sobre construcción, programación e investigación, recuerdo haber pensado en la ventaja injusta que tenían los niños de nuestro equipo al aplicar las habilidades que adquirieron durante su clase de carpintería obligatoria del plan de su horario escolar . Mientras nosotras, las niñas, no pudimos participar en ese curso porque nuestro horario escolar nos obligaba a tomar una clase de etiqueta y protocolo. Esta es solo una instancia en la que siento que el acceso de las mujeres a ciertos campos ha sido estructuralmente restringido. Experiencias así, tanto personales como presentadas, me hicieron darme cuenta de lo difícil que es lograr el progreso cuando la mitad de la población mundial se ve frenada constantemente. Creo que hacer que STEM sea más accesible para las niñas y las mujeres es clave para cambiar la narrativa que les hace creer que no son capaces de acceder a una educación superior, encontrar empleo en ciertos campos y tener un impacto.",
+      "company" : "STEM Para Nosotras",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "country" : "Santo Domingo, Dominican Republic",
+      "featured" : false,
+      "name" : "Alexandra Rodriguez Dalmau",
+      "photo" : "/images/people/alexandra.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/speakers%2Falexandra.jpg?alt=media&token=70921e09-f76a-473b-8892-95f3691649c4",
+      "shortBio" : "Me llamo Alexandra Rodríguez Dalmau, tengo 17 años y quiero ser ingeniera. Cuando me uní a FIRST Lego League en séptimo grado, tuve mi primer encuentro inmersivo con los campos de Ciencia, Tecnología, Ingeniería y Matemáticas (STEM). Aunque estaba emocionada por aprender sobre construcción, programación e investigación, recuerdo haber pensado en la ventaja injusta que tenían los niños de nuestro equipo al aplicar las habilidades que adquirieron durante su clase de carpintería obligatoria del plan de su horario escolar . Mientras nosotras, las niñas, no pudimos participar en ese curso porque nuestro horario escolar nos obligaba a tomar una clase de etiqueta y protocolo. Esta es solo una instancia en la que siento que el acceso de las mujeres a ciertos campos ha sido estructuralmente restringido. Experiencias así, tanto personales como presentadas, me hicieron darme cuenta de lo difícil que es lograr el progreso cuando la mitad de la población mundial se ve frenada constantemente. Creo que hacer que STEM sea más accesible para las niñas y las mujeres es clave para cambiar la narrativa que les hace creer que no son capaces de acceder a una educación superior, encontrar empleo en ciertos campos y tener un impacto.",
+      "socials" : [ {
+          "icon" : "website",
+          "link" : "https://stemparanosotras.weebly.com/",
+          "name" : "Website"
+            } ],
+      "order" : 21,
+      "title" : "Voluntaria"
+    },
+    "natacha_rosa" : {
+      "bio" : "I’m a web developer from DR that loves learning new things and share it with my peers! Also I love anime and kpop :)",
+      "company" : "DGII",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "country" : "Santo Domingo, Dominican Republic",
+      "featured" : false,
+      "name" : "Natacha De la Rosa",
+      "photo" : "/images/people/natacha_rosa.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/speakers%2Fnatacha_rosa.jpg?alt=media&token=74f0979b-7564-4c14-aa32-135bd3209737",
+      "shortBio" : "I’m a web developer from DR that loves learning new things and share it with my peers! Also I love anime and kpop :)",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "http://twitter.com/NatachaDeLaRosa",
+        "name" : "Twitter"
+        }, {
+          "icon" : "website",
+          "link" : "https://natachadelarosa.github.io/",
+          "name" : "Website"
+            } ],
+      "order" : 20,
+      "title" : "Senior Software Developer"
+    },
+    "john_troncoso" : {
+      "bio" : "Hola, soy John Troncoso, un desarrollador aplicaciones web, actualmente trabajo para la autoridad de impuestos en RD (DGII), integrando aplicaciones, y desarrollando servicios para diferentes ambientes, en stacks como dotnet y node.",
+      "company" : "DGII",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "country" : "Santo Domingo, Dominican Republic",
+      "featured" : false,
+      "name" : "John Troncoso",
+      "photo" : "/images/people/john_troncoso.jpeg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/speakers%2Fjohn_troncoso.jpeg?alt=media&token=02514c3b-f394-46b3-aecb-cb71df8eb550",
+      "shortBio" : "Hola, soy John Troncoso, un desarrollador aplicaciones web, actualmente trabajo para la autoridad de impuestos en RD (DGII), integrando aplicaciones, y desarrollando servicios para diferentes ambientes, en stacks como dotnet y node.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "http://twitter.com/JohnNTroncosoM",
+        "name" : "Twitter"
+            } ],
+      "order" : 20,
+      "title" : "Web Developer"
+    },
+    "danny_feliz" : {
+      "bio" : "Hey! I am a full-stack web developer who loves computer science and hipster technologies. The best way to know me will be researching on Github’s profile. Over the last 5+ years, I have developed different information systems and APIs including Web sites using many technologies such as PHP, Java, C# (ASP.NET), Javascript (Vue / React / Node.js), MySQL, Oracle, Mongo, Redis and many others.",
+      "company" : "MCTekk",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "country" : "Santo Domingo, Dominican Republic",
+      "featured" : false,
+      "name" : "Danny Feliz",
+      "photo" : "/images/people/danny_feliz.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-f65a9.appspot.com/o/speakers%2Fdanny_feliz.jpg?alt=media&token=3562733f-93c4-46ac-abdb-d3b34eae6425",
+      "shortBio" : "Hey! I am a full-stack web developer who loves computer science and hipster technologies. The best way to know me will be researching on Github’s profile. Over the last 5+ years, I have developed different information systems and APIs including Web sites using many technologies such as PHP, Java, C# (ASP.NET), Javascript (Vue / React / Node.js), MySQL, Oracle, Mongo, Redis and many others.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "http://twitter.com/DannyFeliz08",
+        "name" : "Twitter"
+        }, {
+          "icon" : "linkedin",
+          "link" : "https://www.linkedin.com/in/dannyfeliz",
+          "name" : "Linkedin"
+        }, {
+          "icon" : "website",
+          "link" : "http://dannyfeliz.com/",
+          "name" : "Website"
+            } ],
+      "order" : 20,
+      "title" : "Web Developer"
+    }
   },
   "team" : [ {
     "members" : [ {
@@ -838,14 +1294,14 @@
     "title" : "Core Team"
   }],
   "tickets" : [ {
-    "available" : true,
+    "available" : false,
     "currency" : "$",
     "ends" : "Aug 31",
     "inDemand" : true,
     "info" : "O hasta agotar existencia",
     "name" : "Early Bird",
     "price" : 40,
-    "primary" : true,
+    "primary" : false,
     "regular" : true,
     "soldOut" : false,
     "starts" : "Jun 17",
@@ -854,7 +1310,7 @@
     "available" : true,
     "currency" : "$",
     "ends" : "Sep 20",
-    "inDemand" : false,
+    "inDemand" : true,
     "info" : "O hasta agotar existencia",
     "name" : "Regular",
     "price" : 50,
